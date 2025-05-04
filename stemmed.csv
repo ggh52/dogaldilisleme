@@ -1,0 +1,1219 @@
+﻿original_sentence,processed_tokens
+"HTML, CSS, Django, MongoDB",html css django mongodp
+"React, JavaScript, Linux, Docker, CSS",react javascript linux docker css
+"ASP.NET, Java, HTML, C#, C#",aspnet jav html
+"ASP.NET, Next.js, Azure, JavaScript, Git",aspnet nextjs azure javascript git
+"Java, Django, Kubernetes",jav django kubernetes
+"Python, SQL, CSS",python sql css
+"C#, Next.js, React, Docker",nextjs react docker
+"MongoDB, Java, Node.js",mongodp jav nodejs
+"CSS, Next.js, Flutter, SQL",css nextjs flutter sql
+"Flask, C#, Django, Git",flask django git
+"ASP.NET, Azure, Node.js, Flutter",aspnet azure nodejs flutter
+"React, ASP.NET, MongoDB, Kubernetes",react aspnet mongodp kubernetes
+"SQL, CSS, Python, Python, Next.js, JavaScript",sql css python python nextjs javascript
+"Django, Node.js, ASP.NET, Flutter, Next.js, C#",django nodejs aspnet flutter nextjs
+"ASP.NET, Flask, Java, Java",aspnet flask jav jav
+"Next.js, Linux, MongoDB, JavaScript, Linux, React",nextjs linux mongodp javascript linux react
+"Azure, JavaScript, HTML, Linux",azure javascript html linux
+"Django, Next.js, Docker",django nextjs docker
+"Linux, Java, Python, CSS, Docker, Flutter",linux jav python css docker flutter
+"SQL, Flask, Python, MongoDB, HTML, Next.js",sql flask python mongodp html nextjs
+"Python, MongoDB, MongoDB",python mongodp mongodp
+"ASP.NET, HTML, C#, SQL, JavaScript",aspnet html sql javascript
+"Azure, Next.js, Git",azure nextjs git
+"SQL, Java, Azure",sql jav azure
+"HTML, Git, Linux, React, HTML, Git",html git linux react html git
+"Docker, CSS, Next.js, JavaScript, C#, SQL",docker css nextjs javascript sql
+"CSS, MongoDB, SQL, HTML, MongoDB, Kubernetes",css mongodp sql html mongodp kubernetes
+"C#, Flask, Flask, JavaScript",flask flask javascript
+"Node.js, SQL, HTML",nodejs sql html
+"HTML, MongoDB, ASP.NET",html mongodp aspnet
+"Docker, Azure, JavaScript, MongoDB, CSS, SQL",docker azure javascript mongodp css sql
+"Node.js, Next.js, Python",nodejs nextjs python
+"JavaScript, Docker, Docker, C#, Linux, Kubernetes",javascript docker docker linux kubernetes
+"Next.js, Python, Next.js, ASP.NET",nextjs python nextjs aspnet
+"Flask, Docker, Java, CSS",flask docker jav css
+"Docker, HTML, MongoDB, Flask, Java, C#",docker html mongodp flask jav
+"C#, Kubernetes, MongoDB",kubernetes mongodp
+"ASP.NET, Linux, Flask",aspnet linux flask
+"Next.js, Python, Git, React, Flutter, Flask",nextjs python git react flutter flask
+"Docker, Django, JavaScript, Next.js, Flutter, Docker",docker django javascript nextjs flutter docker
+"Node.js, Azure, Django, Python, SQL",nodejs azure django python sql
+"ASP.NET, Git, Git, C#",aspnet git git
+"CSS, CSS, Azure, Docker",css css azure docker
+"Python, Azure, Git, Git, Next.js, MongoDB",python azure git git nextjs mongodp
+"ASP.NET, Linux, JavaScript, Python, Docker",aspnet linux javascript python docker
+"Azure, Kubernetes, C#",azure kubernetes
+"CSS, Node.js, C#, Python",css nodejs python
+"JavaScript, ASP.NET, JavaScript, Docker",javascript aspnet javascript docker
+"Linux, Python, Flutter, Java, React",linux python flutter jav react
+"Docker, React, JavaScript",docker react javascript
+"Node.js, JavaScript, React, Flutter, Next.js",nodejs javascript react flutter nextjs
+"Java, React, Git, Flutter, HTML",jav react git flutter html
+"Django, Django, Django",django django django
+"JavaScript, Linux, Docker, Java",javascript linux docker jav
+"Flutter, Flask, HTML, HTML, Node.js",flutter flask html html nodejs
+"C#, Git, Kubernetes, Kubernetes",git kubernetes kubernetes
+"Flutter, HTML, ASP.NET, MongoDB",flutter html aspnet mongodp
+"Docker, Git, Next.js, Node.js",docker git nextjs nodejs
+"Django, Azure, JavaScript",django azure javascript
+"HTML, Kubernetes, ASP.NET, Kubernetes",html kubernetes aspnet kubernetes
+"React, CSS, React",react css react
+"C#, C#, ASP.NET, JavaScript, HTML",aspnet javascript html
+"CSS, Flutter, Node.js, Docker, SQL",css flutter nodejs docker sql
+"JavaScript, Flutter, Kubernetes, CSS, ASP.NET",javascript flutter kubernetes css aspnet
+"Python, Flask, JavaScript, SQL",python flask javascript sql
+"React, MongoDB, Node.js, Kubernetes, Linux, ASP.NET",react mongodp nodejs kubernetes linux aspnet
+"Flask, CSS, Django, Next.js, JavaScript",flask css django nextjs javascript
+"Kubernetes, Node.js, MongoDB, Docker, Flask",kubernetes nodejs mongodp docker flask
+"Flask, Next.js, Node.js, Java, MongoDB",flask nextjs nodejs jav mongodp
+"Java, CSS, Python, ASP.NET, Flutter",jav css python aspnet flutter
+"SQL, React, Docker, Next.js, Node.js",sql react docker nextjs nodejs
+"SQL, Flask, Kubernetes, CSS, Flutter",sql flask kubernetes css flutter
+"Python, Azure, JavaScript, Java",python azure javascript jav
+"Java, Django, Python, Flask, Linux, HTML",jav django python flask linux html
+"Java, MongoDB, Java, CSS",jav mongodp jav css
+"Docker, Flask, Docker, Java",docker flask docker jav
+"SQL, Python, Flask, SQL, Python, Azure",sql python flask sql python azure
+"MongoDB, ASP.NET, ASP.NET, Flutter, CSS",mongodp aspnet aspnet flutter css
+"Azure, Kubernetes, JavaScript, Docker",azure kubernetes javascript docker
+"ASP.NET, C#, HTML, C#",aspnet html
+"SQL, Kubernetes, Java, Flask, Git, Java",sql kubernetes jav flask git jav
+"C#, Kubernetes, Git, ASP.NET, Flask, CSS",kubernetes git aspnet flask css
+"React, MongoDB, Python",react mongodp python
+"MongoDB, Git, Linux, Python, React",mongodp git linux python react
+"Python, Azure, JavaScript, Git, HTML",python azure javascript git html
+"Flutter, Git, Azure, Django, Flask, Kubernetes",flutter git azure django flask kubernetes
+"Django, CSS, CSS",django css css
+"Java, Linux, Kubernetes, Java, Java, Azure",jav linux kubernetes jav jav azure
+"Kubernetes, React, Next.js, Python, Python, Git",kubernetes react nextjs python python git
+"Python, Django, Flutter, JavaScript, Django, ASP.NET",python django flutter javascript django aspnet
+"Flask, Git, ASP.NET, Java",flask git aspnet jav
+"C#, Kubernetes, HTML",kubernetes html
+"Docker, CSS, Flask, Python",docker css flask python
+"Django, MongoDB, MongoDB, Kubernetes, CSS, Linux",django mongodp mongodp kubernetes css linux
+"Java, Docker, Python, Node.js",jav docker python nodejs
+"Node.js, Flask, Django, Docker, Kubernetes, Azure",nodejs flask django docker kubernetes azure
+"Node.js, ASP.NET, Kubernetes",nodejs aspnet kubernetes
+"Docker, Linux, HTML, Node.js, Flask",docker linux html nodejs flask
+"HTML, Linux, Docker, Azure",html linux docker azure
+"React, React, ASP.NET",react react aspnet
+"Node.js, Next.js, C#",nodejs nextjs
+"Node.js, Flutter, Java, Java, MongoDB",nodejs flutter jav jav mongodp
+"Node.js, Flask, Node.js",nodejs flask nodejs
+"Node.js, ASP.NET, Java, Java",nodejs aspnet jav jav
+"Node.js, Azure, Next.js, C#, Kubernetes",nodejs azure nextjs kubernetes
+"ASP.NET, Java, JavaScript, SQL",aspnet jav javascript sql
+"CSS, C#, Node.js, Azure, MongoDB, Django",css nodejs azure mongodp django
+"CSS, Kubernetes, Node.js, Node.js, Kubernetes",css kubernetes nodejs nodejs kubernetes
+"HTML, JavaScript, MongoDB, Kubernetes",html javascript mongodp kubernetes
+"C#, Linux, Docker, CSS",linux docker css
+"CSS, Java, C#",css jav
+"Flask, C#, React",flask react
+"HTML, CSS, Azure, Linux, Next.js, Next.js",html css azure linux nextjs nextjs
+"CSS, Linux, ASP.NET, Azure, Azure, SQL",css linux aspnet azure azure sql
+"Flask, Linux, Linux, Java",flask linux linux jav
+"JavaScript, Docker, MongoDB, Django, C#, Flask",javascript docker mongodp django flask
+"Next.js, Django, Git, Linux, Flutter",nextjs django git linux flutter
+"HTML, Docker, HTML, Kubernetes, Docker, HTML",html docker html kubernetes docker html
+"Python, ASP.NET, Node.js, Java",python aspnet nodejs jav
+"HTML, Flutter, SQL, Django, ASP.NET",html flutter sql django aspnet
+"Flutter, Linux, SQL, Git, Azure",flutter linux sql git azure
+"Java, Git, Django, MongoDB",jav git django mongodp
+"ASP.NET, HTML, React, JavaScript, Flask",aspnet html react javascript flask
+"Flask, Kubernetes, Django, Kubernetes, MongoDB",flask kubernetes django kubernetes mongodp
+"Django, Git, JavaScript, Azure, Django, Python",django git javascript azure django python
+"Next.js, Kubernetes, Docker, Django, CSS, SQL",nextjs kubernetes docker django css sql
+"Next.js, Azure, Django, Node.js",nextjs azure django nodejs
+"JavaScript, SQL, Java, SQL",javascript sql jav sql
+"Django, React, Azure, Linux, Flutter",django react azure linux flutter
+"Azure, Node.js, HTML, Git, Git, JavaScript",azure nodejs html git git javascript
+"Java, Linux, Next.js, Git, Linux",jav linux nextjs git linux
+"Next.js, CSS, Django, JavaScript",nextjs css django javascript
+"Next.js, Azure, Linux",nextjs azure linux
+"Flask, Flask, HTML, Azure, Flutter",flask flask html azure flutter
+"Linux, ASP.NET, SQL",linux aspnet sql
+"Next.js, Flask, Python",nextjs flask python
+"Node.js, C#, Node.js, Linux, Flask, React",nodejs nodejs linux flask react
+"Docker, C#, Linux",docker linux
+"ASP.NET, Docker, Linux, Next.js, JavaScript",aspnet docker linux nextjs javascript
+"Python, Flutter, Flask",python flutter flask
+"Azure, React, Docker, Flutter, SQL, Flutter",azure react docker flutter sql flutter
+"ASP.NET, Docker, Flutter, Linux",aspnet docker flutter linux
+"CSS, Git, HTML, JavaScript",css git html javascript
+"JavaScript, Django, Python, Next.js",javascript django python nextjs
+"Next.js, Docker, HTML, Next.js",nextjs docker html nextjs
+"Node.js, React, Django",nodejs react django
+"Kubernetes, Java, Linux, Flutter, React, Azure",kubernetes jav linux flutter react azure
+"Node.js, Node.js, Flutter, React, Linux, Flask",nodejs nodejs flutter react linux flask
+"MongoDB, Next.js, HTML",mongodp nextjs html
+"Node.js, Azure, Kubernetes, Flutter, Git",nodejs azure kubernetes flutter git
+"Docker, Java, Kubernetes, C#, CSS, Flutter",docker jav kubernetes css flutter
+"HTML, CSS, ASP.NET",html css aspnet
+"Next.js, HTML, Docker",nextjs html docker
+"HTML, Flask, C#, MongoDB, MongoDB",html flask mongodp mongodp
+"ASP.NET, Flask, Flutter, Kubernetes",aspnet flask flutter kubernetes
+"MongoDB, Linux, Docker, C#",mongodp linux docker
+"React, CSS, MongoDB, C#, MongoDB, HTML",react css mongodp mongodp html
+"Java, Django, Next.js",jav django nextjs
+"Node.js, HTML, React, CSS",nodejs html react css
+"React, C#, Azure, Azure, CSS",react azure azure css
+"HTML, JavaScript, Django, Flutter",html javascript django flutter
+"Python, C#, Next.js, JavaScript, Git, ASP.NET",python nextjs javascript git aspnet
+"MongoDB, Java, Flutter, MongoDB",mongodp jav flutter mongodp
+"CSS, CSS, Flutter",css css flutter
+"Docker, React, Next.js, HTML, Django",docker react nextjs html django
+"Azure, SQL, Java, Django, ASP.NET, Flutter",azure sql jav django aspnet flutter
+"React, JavaScript, Git, C#, JavaScript, MongoDB",react javascript git javascript mongodp
+"C#, Java, MongoDB, Flutter",jav mongodp flutter
+"Flask, Java, Python, Django, SQL",flask jav python django sql
+"Flutter, Flask, Azure, ASP.NET, SQL, SQL",flutter flask azure aspnet sql sql
+"Node.js, ASP.NET, Flutter",nodejs aspnet flutter
+"Docker, Git, ASP.NET, Flask, Git, Flutter",docker git aspnet flask git flutter
+"ASP.NET, Docker, Node.js, JavaScript, Git",aspnet docker nodejs javascript git
+"Docker, Docker, SQL",docker docker sql
+"Django, Node.js, Git, Flutter, C#",django nodejs git flutter
+"Python, Next.js, SQL, Kubernetes, Next.js, Azure",python nextjs sql kubernetes nextjs azure
+"Docker, HTML, Next.js",docker html nextjs
+"HTML, CSS, CSS",html css css
+"React, Docker, Docker, Java, JavaScript, MongoDB",react docker docker jav javascript mongodp
+"HTML, HTML, Node.js, Linux, SQL, Java",html html nodejs linux sql jav
+"JavaScript, MongoDB, Docker",javascript mongodp docker
+"C#, CSS, JavaScript",css javascript
+"Flask, Flutter, MongoDB",flask flutter mongodp
+"JavaScript, ASP.NET, Docker, ASP.NET",javascript aspnet docker aspnet
+"Next.js, Flask, Docker, C#, JavaScript",nextjs flask docker javascript
+"Flask, Flutter, Java",flask flutter jav
+"Python, Linux, Linux, Java, MongoDB, Java",python linux linux jav mongodp jav
+"HTML, Azure, ASP.NET, Azure",html azure aspnet azure
+"Linux, Flask, Next.js, C#",linux flask nextjs
+"CSS, Linux, Azure",css linux azure
+"Python, Django, Python",python django python
+"Node.js, React, Next.js, Git",nodejs react nextjs git
+"Git, Flask, JavaScript, React, Azure, Kubernetes",git flask javascript react azure kubernetes
+"C#, ASP.NET, SQL, ASP.NET, Node.js",aspnet sql aspnet nodejs
+"Git, C#, React, MongoDB, SQL",git react mongodp sql
+"Azure, Java, Flutter",azure jav flutter
+"Git, Next.js, ASP.NET, Java, CSS",git nextjs aspnet jav css
+"Flutter, Kubernetes, Next.js, Flask",flutter kubernetes nextjs flask
+"Linux, JavaScript, SQL, SQL, Django",linux javascript sql sql django
+"HTML, Next.js, C#, Django",html nextjs django
+"Next.js, Docker, C#",nextjs docker
+"C#, C#, HTML, Git, SQL, Azure",html git sql azure
+"Linux, Django, Next.js, Git",linux django nextjs git
+"Django, C#, Git, HTML",django git html
+"Flask, Python, JavaScript",flask python javascript
+"Docker, Flutter, Kubernetes, CSS, Next.js",docker flutter kubernetes css nextjs
+"Python, HTML, ASP.NET, Azure",python html aspnet azure
+"Docker, C#, C#, React, Flutter, Azure",docker react flutter azure
+"Next.js, JavaScript, Docker, Kubernetes, Kubernetes, Linux",nextjs javascript docker kubernetes kubernetes linux
+"MongoDB, Git, C#, ASP.NET",mongodp git aspnet
+"React, Python, Flutter",react python flutter
+"MongoDB, SQL, CSS, Flutter",mongodp sql css flutter
+"Node.js, Python, Node.js, Kubernetes, MongoDB",nodejs python nodejs kubernetes mongodp
+"React, ASP.NET, Flutter, ASP.NET, Kubernetes",react aspnet flutter aspnet kubernetes
+"Next.js, Kubernetes, SQL, Python",nextjs kubernetes sql python
+"Linux, Flask, ASP.NET, MongoDB, C#",linux flask aspnet mongodp
+"ASP.NET, CSS, Flask",aspnet css flask
+"Django, C#, Django",django django
+"C#, CSS, Git, CSS, Git",css git css git
+"Flutter, Node.js, Kubernetes, Next.js",flutter nodejs kubernetes nextjs
+"Docker, SQL, C#, Linux, Linux",docker sql linux linux
+"SQL, Flutter, Java, CSS",sql flutter jav css
+"Next.js, Git, CSS, Linux, Django, Git",nextjs git css linux django git
+"Node.js, HTML, CSS, HTML, Django",nodejs html css html django
+"SQL, HTML, Kubernetes, Python, Java, MongoDB",sql html kubernetes python jav mongodp
+"Docker, MongoDB, Next.js",docker mongodp nextjs
+"Linux, Flutter, Flask",linux flutter flask
+"Azure, MongoDB, C#",azure mongodp
+"Python, JavaScript, React",python javascript react
+"ASP.NET, Kubernetes, Docker",aspnet kubernetes docker
+"SQL, ASP.NET, SQL, ASP.NET, Node.js",sql aspnet sql aspnet nodejs
+"Python, CSS, ASP.NET, MongoDB, C#",python css aspnet mongodp
+"HTML, Linux, MongoDB, Kubernetes",html linux mongodp kubernetes
+"Kubernetes, Docker, Linux, Kubernetes, Kubernetes",kubernetes docker linux kubernetes kubernetes
+"Linux, ASP.NET, Flutter",linux aspnet flutter
+"Linux, Kubernetes, Next.js, Flask, MongoDB",linux kubernetes nextjs flask mongodp
+"Linux, MongoDB, C#, Python, Django",linux mongodp python django
+"Kubernetes, Next.js, HTML, Node.js, MongoDB, HTML",kubernetes nextjs html nodejs mongodp html
+"Flask, Linux, Next.js",flask linux nextjs
+"Python, Docker, CSS, React, React",python docker css react react
+"CSS, Flask, Kubernetes, MongoDB, Azure",css flask kubernetes mongodp azure
+"React, CSS, JavaScript, Linux, Docker, Python",react css javascript linux docker python
+"Linux, Docker, Flutter, React",linux docker flutter react
+"Node.js, JavaScript, Java, SQL",nodejs javascript jav sql
+"Azure, Django, C#, Azure, Azure",azure django azure azure
+"Flutter, Docker, C#, SQL, Git, Flask",flutter docker sql git flask
+"Linux, C#, CSS",linux css
+"Next.js, Linux, ASP.NET, HTML",nextjs linux aspnet html
+"Next.js, HTML, C#, Flask, SQL",nextjs html flask sql
+"C#, Kubernetes, ASP.NET, ASP.NET, Linux",kubernetes aspnet aspnet linux
+"ASP.NET, Next.js, Flutter, Python, Django, Kubernetes",aspnet nextjs flutter python django kubernetes
+"Java, Flask, Node.js, CSS, Kubernetes",jav flask nodejs css kubernetes
+"Linux, CSS, Flutter, Azure",linux css flutter azure
+"Django, SQL, SQL, MongoDB",django sql sql mongodp
+"Git, HTML, ASP.NET",git html aspnet
+"Azure, Java, Linux, HTML, HTML",azure jav linux html html
+"Git, Azure, Next.js, MongoDB, HTML, Azure",git azure nextjs mongodp html azure
+"Java, Kubernetes, JavaScript, Python, Azure",jav kubernetes javascript python azure
+"Azure, Docker, MongoDB, Git, Flutter",azure docker mongodp git flutter
+"React, SQL, HTML, Docker",react sql html docker
+"Flutter, Flask, Django",flutter flask django
+"Docker, Linux, Azure, Java, CSS, C#",docker linux azure jav css
+"Django, Node.js, Flask, Python, Linux",django nodejs flask python linux
+"Next.js, Docker, Git, HTML, Java",nextjs docker git html jav
+"C#, HTML, Linux, React, C#",html linux react
+"HTML, Node.js, Java",html nodejs jav
+"Docker, Git, Docker, Kubernetes, Docker",docker git docker kubernetes docker
+"React, CSS, Git, Flutter, MongoDB, Next.js",react css git flutter mongodp nextjs
+"Java, Flask, Docker",jav flask docker
+"Node.js, Java, Python, Linux",nodejs jav python linux
+"Docker, Node.js, Flutter",docker nodejs flutter
+"JavaScript, Node.js, Azure, Next.js",javascript nodejs azure nextjs
+"Azure, Flutter, Node.js",azure flutter nodejs
+"Azure, HTML, Flask, C#",azure html flask
+"Node.js, C#, Azure, C#, Next.js",nodejs azure nextjs
+"Django, Java, Node.js, React",django jav nodejs react
+"C#, JavaScript, Node.js",javascript nodejs
+"SQL, Next.js, React",sql nextjs react
+"Docker, HTML, Kubernetes, ASP.NET, MongoDB, Flutter",docker html kubernetes aspnet mongodp flutter
+"Flutter, ASP.NET, React, Node.js",flutter aspnet react nodejs
+"Next.js, C#, Azure",nextjs azure
+"ASP.NET, Next.js, Flutter, Next.js, Flutter, React",aspnet nextjs flutter nextjs flutter react
+"Flask, MongoDB, Azure, Next.js, Next.js",flask mongodp azure nextjs nextjs
+"React, Java, Django",react jav django
+"JavaScript, Kubernetes, Flask",javascript kubernetes flask
+"ASP.NET, HTML, ASP.NET, CSS, Django",aspnet html aspnet css django
+"SQL, Kubernetes, JavaScript, Linux, Python, Azure",sql kubernetes javascript linux python azure
+"Flask, ASP.NET, Java, Java, React",flask aspnet jav jav react
+"Kubernetes, MongoDB, CSS",kubernetes mongodp css
+"HTML, React, Kubernetes, Azure, CSS, Azure",html react kubernetes azure css azure
+"Flask, Kubernetes, Next.js, Docker, ASP.NET",flask kubernetes nextjs docker aspnet
+"React, Kubernetes, Node.js",react kubernetes nodejs
+"Git, Django, Linux, Flutter",git django linux flutter
+"Flutter, Linux, Django",flutter linux django
+"HTML, HTML, Git, Flutter, ASP.NET, C#",html html git flutter aspnet
+"React, Linux, JavaScript, C#, Python",react linux javascript python
+"Azure, Next.js, Flutter, SQL, Linux",azure nextjs flutter sql linux
+"MongoDB, CSS, Flutter, C#",mongodp css flutter
+"Flask, Python, Azure, Django, Flask",flask python azure django flask
+"MongoDB, Node.js, Flutter",mongodp nodejs flutter
+"C#, Azure, Linux, C#, Linux, React",azure linux linux react
+"Python, CSS, Python, MongoDB, CSS, Git",python css python mongodp css git
+"Django, Next.js, SQL",django nextjs sql
+"Kubernetes, ASP.NET, Java",kubernetes aspnet jav
+"HTML, Kubernetes, React, HTML",html kubernetes react html
+"Kubernetes, Flutter, Azure, Java, Java",kubernetes flutter azure jav jav
+"HTML, CSS, Docker, Node.js, Next.js",html css docker nodejs nextjs
+"Next.js, Azure, Linux, Docker, Django",nextjs azure linux docker django
+"HTML, Next.js, Azure, Flutter",html nextjs azure flutter
+"ASP.NET, React, Python, Azure",aspnet react python azure
+"Python, Azure, Flask, Docker",python azure flask docker
+"CSS, HTML, SQL, ASP.NET, Kubernetes, Flutter",css html sql aspnet kubernetes flutter
+"React, SQL, Docker, Linux, ASP.NET, SQL",react sql docker linux aspnet sql
+"Azure, Linux, Kubernetes, CSS",azure linux kubernetes css
+"Docker, Next.js, Node.js, Linux, Java, Kubernetes",docker nextjs nodejs linux jav kubernetes
+"React, Node.js, C#",react nodejs
+"Flask, HTML, Python",flask html python
+"CSS, Docker, Java, Kubernetes, MongoDB",css docker jav kubernetes mongodp
+"ASP.NET, Next.js, Linux, Docker, Flask, Kubernetes",aspnet nextjs linux docker flask kubernetes
+"Kubernetes, CSS, Flask",kubernetes css flask
+"Node.js, Git, Next.js, Python",nodejs git nextjs python
+"CSS, Node.js, Docker",css nodejs docker
+"SQL, ASP.NET, Node.js",sql aspnet nodejs
+"MongoDB, ASP.NET, Python, Next.js, ASP.NET",mongodp aspnet python nextjs aspnet
+"CSS, Linux, Flask",css linux flask
+"Python, Git, Linux, HTML",python git linux html
+"React, Kubernetes, ASP.NET, React, Java, Next.js",react kubernetes aspnet react jav nextjs
+"Kubernetes, Python, Next.js, MongoDB, Linux, Python",kubernetes python nextjs mongodp linux python
+"Next.js, Flask, Docker",nextjs flask docker
+"Java, Java, HTML, Kubernetes",jav jav html kubernetes
+"Python, C#, Git",python git
+"Flutter, React, Kubernetes, Kubernetes",flutter react kubernetes kubernetes
+"Flask, Git, Python, Linux, React",flask git python linux react
+"Next.js, HTML, Flutter, Java, Kubernetes",nextjs html flutter jav kubernetes
+"Docker, Flutter, C#, HTML, Linux",docker flutter html linux
+"Docker, SQL, Kubernetes, React",docker sql kubernetes react
+"Node.js, JavaScript, Git",nodejs javascript git
+"Flask, Node.js, Git, Java, Git, Linux",flask nodejs git jav git linux
+"Java, Linux, Linux",jav linux linux
+"Node.js, Kubernetes, JavaScript, Django, ASP.NET, Node.js",nodejs kubernetes javascript django aspnet nodejs
+"Linux, SQL, HTML",linux sql html
+"SQL, Next.js, Docker",sql nextjs docker
+"Git, Flask, Git, Linux",git flask git linux
+"Azure, JavaScript, CSS, C#, Python, Next.js",azure javascript css python nextjs
+"Next.js, Next.js, Django",nextjs nextjs django
+"React, Azure, C#, JavaScript, React, JavaScript",react azure javascript react javascript
+"Flask, Java, JavaScript, Java, SQL, Flask",flask jav javascript jav sql flask
+"Kubernetes, React, React, Java",kubernetes react react jav
+"Python, Flask, Azure, Docker, MongoDB, Kubernetes",python flask azure docker mongodp kubernetes
+"Java, JavaScript, CSS",jav javascript css
+"React, React, Docker, Python, C#",react react docker python
+"Node.js, CSS, Kubernetes",nodejs css kubernetes
+"Linux, Git, HTML",linux git html
+"Next.js, MongoDB, Django",nextjs mongodp django
+"Flutter, Kubernetes, HTML, MongoDB, Docker, Linux",flutter kubernetes html mongodp docker linux
+"CSS, Python, Node.js, JavaScript",css python nodejs javascript
+"Docker, Docker, Docker",docker docker docker
+"Java, HTML, Git, CSS, Linux",jav html git css linux
+"CSS, Java, Azure, Node.js, MongoDB",css jav azure nodejs mongodp
+"Next.js, Django, Docker, Next.js",nextjs django docker nextjs
+"Node.js, Azure, C#, Linux, MongoDB, Node.js",nodejs azure linux mongodp nodejs
+"SQL, Flask, Java",sql flask jav
+"MongoDB, Java, Flask, Next.js, Kubernetes",mongodp jav flask nextjs kubernetes
+"React, HTML, Azure",react html azure
+"React, C#, Flask, C#, Flask",react flask flask
+"Linux, C#, Flask",linux flask
+"Kubernetes, Kubernetes, HTML, HTML, React",kubernetes kubernetes html html react
+"HTML, Git, React, ASP.NET",html git react aspnet
+"SQL, Java, Node.js, SQL, Next.js, HTML",sql jav nodejs sql nextjs html
+"SQL, Kubernetes, Docker, CSS",sql kubernetes docker css
+"Git, Flask, CSS, Kubernetes, Kubernetes, Next.js",git flask css kubernetes kubernetes nextjs
+"Azure, ASP.NET, Docker, JavaScript, Kubernetes, Git",azure aspnet docker javascript kubernetes git
+"Next.js, Kubernetes, MongoDB, Git",nextjs kubernetes mongodp git
+"C#, Kubernetes, Flask, Git",kubernetes flask git
+"SQL, Flask, Flutter, ASP.NET, Flutter, C#",sql flask flutter aspnet flutter
+"React, Linux, Kubernetes, C#, JavaScript",react linux kubernetes javascript
+"Flask, HTML, Django",flask html django
+"Django, Flask, MongoDB",django flask mongodp
+"Flutter, Flask, C#",flutter flask
+"Node.js, HTML, MongoDB",nodejs html mongodp
+"Django, Docker, HTML, React, React",django docker html react react
+"CSS, SQL, Linux, Flutter",css sql linux flutter
+"Django, Python, Flutter, CSS, Docker",django python flutter css docker
+"React, ASP.NET, MongoDB, Git, Kubernetes, Flask",react aspnet mongodp git kubernetes flask
+"MongoDB, ASP.NET, Flask, Flutter",mongodp aspnet flask flutter
+"SQL, CSS, React, Flask, ASP.NET",sql css react flask aspnet
+"React, Docker, JavaScript",react docker javascript
+"Django, CSS, JavaScript, Flutter, SQL",django css javascript flutter sql
+"Docker, React, HTML, Docker, Next.js, Django",docker react html docker nextjs django
+"Docker, CSS, Docker",docker css docker
+"Python, SQL, Kubernetes, Flask, Next.js",python sql kubernetes flask nextjs
+"Python, React, MongoDB, Node.js",python react mongodp nodejs
+"Docker, HTML, Node.js",docker html nodejs
+"SQL, React, Kubernetes",sql react kubernetes
+"Flask, Kubernetes, ASP.NET, Azure, Next.js",flask kubernetes aspnet azure nextjs
+"Git, Python, ASP.NET",git python aspnet
+"Next.js, C#, Flask",nextjs flask
+"Kubernetes, Flutter, Flask, Django",kubernetes flutter flask django
+"ASP.NET, React, Node.js, JavaScript",aspnet react nodejs javascript
+"React, Java, CSS, ASP.NET",react jav css aspnet
+"CSS, ASP.NET, Docker",css aspnet docker
+"ASP.NET, Node.js, MongoDB, Azure, SQL, Flutter",aspnet nodejs mongodp azure sql flutter
+"Linux, MongoDB, Azure, MongoDB",linux mongodp azure mongodp
+"Next.js, Linux, C#, Django, C#",nextjs linux django
+"MongoDB, Azure, MongoDB, React, Flutter",mongodp azure mongodp react flutter
+"CSS, MongoDB, Flask, C#",css mongodp flask
+"Azure, ASP.NET, Flutter, Node.js, React",azure aspnet flutter nodejs react
+"Git, Kubernetes, React",git kubernetes react
+"React, Flutter, JavaScript, Java",react flutter javascript jav
+"Next.js, Git, Node.js, Azure, Java",nextjs git nodejs azure jav
+"ASP.NET, Django, CSS, CSS",aspnet django css css
+"Java, Flutter, React, Node.js, Django",jav flutter react nodejs django
+"C#, ASP.NET, Flask, Flutter, Django",aspnet flask flutter django
+"Flutter, React, C#, Flutter, Git, C#",flutter react flutter git
+"HTML, SQL, SQL",html sql sql
+"Node.js, Flask, Django, Azure, Next.js",nodejs flask django azure nextjs
+"Flutter, React, Flutter",flutter react flutter
+"C#, React, CSS, SQL, Node.js, React",react css sql nodejs react
+"SQL, Flutter, Django",sql flutter django
+"Java, Kubernetes, Next.js, JavaScript, SQL",jav kubernetes nextjs javascript sql
+"Flutter, Azure, Docker, Flask",flutter azure docker flask
+"React, Flask, Azure",react flask azure
+"SQL, Flask, Python, Node.js, CSS",sql flask python nodejs css
+"Flutter, Java, ASP.NET",flutter jav aspnet
+"Node.js, Kubernetes, Flask",nodejs kubernetes flask
+"Python, SQL, Node.js, Linux, Node.js, Docker",python sql nodejs linux nodejs docker
+"MongoDB, Django, Python, Linux",mongodp django python linux
+"Django, JavaScript, SQL, Next.js",django javascript sql nextjs
+"Docker, Azure, Git, JavaScript, Java",docker azure git javascript jav
+"Java, Next.js, Azure, ASP.NET, C#",jav nextjs azure aspnet
+"Flask, HTML, CSS, SQL, Django",flask html css sql django
+"Java, JavaScript, React, Flutter, SQL",jav javascript react flutter sql
+"Java, MongoDB, Linux",jav mongodp linux
+"React, Next.js, React, CSS, HTML",react nextjs react css html
+"Node.js, CSS, SQL",nodejs css sql
+"Azure, Flutter, JavaScript",azure flutter javascript
+"Azure, Node.js, React, Azure, Linux, Django",azure nodejs react azure linux django
+"C#, Flask, ASP.NET, Docker",flask aspnet docker
+"React, Python, Flutter, SQL",react python flutter sql
+"Django, Azure, Python, MongoDB",django azure python mongodp
+"Linux, Docker, ASP.NET, MongoDB, Flutter",linux docker aspnet mongodp flutter
+"HTML, ASP.NET, Linux, HTML, HTML",html aspnet linux html html
+"Git, Java, Linux, Node.js, Azure",git jav linux nodejs azure
+"HTML, Django, Python",html django python
+"Azure, Node.js, Kubernetes, Next.js",azure nodejs kubernetes nextjs
+"Kubernetes, Flutter, Git, Node.js, Kubernetes, Java",kubernetes flutter git nodejs kubernetes jav
+"Flask, Kubernetes, Flask, Docker",flask kubernetes flask docker
+"Django, Flutter, Docker",django flutter docker
+"Flutter, MongoDB, ASP.NET",flutter mongodp aspnet
+"MongoDB, Flutter, JavaScript, Git, CSS, Linux",mongodp flutter javascript git css linux
+"Git, Linux, Flask, React, Git, Docker",git linux flask react git docker
+"C#, JavaScript, Flutter",javascript flutter
+"Node.js, Kubernetes, Kubernetes, SQL",nodejs kubernetes kubernetes sql
+"MongoDB, CSS, CSS, ASP.NET, C#",mongodp css css aspnet
+"React, CSS, C#, Linux, Java",react css linux jav
+"Java, MongoDB, Node.js",jav mongodp nodejs
+"Python, HTML, Kubernetes",python html kubernetes
+"HTML, Docker, Node.js",html docker nodejs
+"Docker, Node.js, Next.js, Docker, CSS",docker nodejs nextjs docker css
+"Azure, MongoDB, Next.js, MongoDB, Flutter",azure mongodp nextjs mongodp flutter
+"Git, React, SQL, React, Kubernetes",git react sql react kubernetes
+"ASP.NET, Flask, Git, Flutter",aspnet flask git flutter
+"Azure, Flutter, Azure, Next.js",azure flutter azure nextjs
+"Next.js, CSS, ASP.NET, HTML, SQL",nextjs css aspnet html sql
+"ASP.NET, Linux, Azure",aspnet linux azure
+"Java, C#, CSS",jav css
+"ASP.NET, Django, React, C#",aspnet django react
+"Java, Node.js, CSS, Docker",jav nodejs css docker
+"React, ASP.NET, C#, Django, Kubernetes",react aspnet django kubernetes
+"Docker, Azure, Docker, Flask, Git, Django",docker azure docker flask git django
+"Kubernetes, Git, HTML, Kubernetes",kubernetes git html kubernetes
+"C#, Git, Node.js",git nodejs
+"Node.js, Azure, MongoDB, JavaScript",nodejs azure mongodp javascript
+"Azure, C#, Kubernetes, CSS, React",azure kubernetes css react
+"Next.js, Flask, Kubernetes, Python, Flask, ASP.NET",nextjs flask kubernetes python flask aspnet
+"Flutter, Azure, Docker, Azure",flutter azure docker azure
+"C#, Next.js, Flutter, Git, C#, Flask",nextjs flutter git flask
+"React, Azure, JavaScript",react azure javascript
+"JavaScript, Python, C#, Java, HTML",javascript python jav html
+"Django, Docker, Node.js, C#",django docker nodejs
+"ASP.NET, Node.js, Next.js, Django",aspnet nodejs nextjs django
+"MongoDB, JavaScript, HTML, Kubernetes",mongodp javascript html kubernetes
+"React, C#, CSS, Linux, SQL",react css linux sql
+"MongoDB, ASP.NET, CSS, Flutter, Java, JavaScript",mongodp aspnet css flutter jav javascript
+"Java, JavaScript, React, Flutter, Python",jav javascript react flutter python
+"C#, Kubernetes, Next.js, Java, Flutter",kubernetes nextjs jav flutter
+"Kubernetes, CSS, Java, CSS, Azure, Linux",kubernetes css jav css azure linux
+"MongoDB, Azure, Node.js",mongodp azure nodejs
+"React, Kubernetes, JavaScript, MongoDB, JavaScript",react kubernetes javascript mongodp javascript
+"Docker, Flutter, Git",docker flutter git
+"Docker, Flask, Azure, Node.js, Django",docker flask azure nodejs django
+"C#, Git, Flask",git flask
+"React, Python, Azure, Flutter, Docker",react python azure flutter docker
+"Node.js, Linux, ASP.NET, Node.js, JavaScript, Django",nodejs linux aspnet nodejs javascript django
+"SQL, HTML, CSS",sql html css
+"Django, Linux, MongoDB, C#, CSS, Flutter",django linux mongodp css flutter
+"JavaScript, ASP.NET, Git, Python",javascript aspnet git python
+"Docker, Azure, React, Java, Node.js, CSS",docker azure react jav nodejs css
+"Node.js, React, Linux, SQL",nodejs react linux sql
+ŞOK Marketler - Elektronik ve Haberleşme mühendisi (2021-2025),şok market elektronik haberleşme mühendis
+Şişecam - Sanayici (2022-2023),şişeca sanayiç
+Aslan Fırat Şti.,asla fırat şti
+- Teşrifatçı (2023-2025),teşrifatçı
+Peak Games - Mali hizmetler uzmanı (2020-2024),peak games mali hizmet uzma
+Sakarya Tarhan Şti.,sakarya tarha şti
+- Makinist (2023-2024),makinist
+Çetin Manço Ltd. - Benzinci (2021-2025),çet manço ltd benzinci
+Demirel Şti.,demirel şti
+- Çitçi (2018-2024),çitçi
+Akgündüz Ltd. - Manifaturacı (2023-2024),akgündüz ltd manifaturaç
+Türk Telekom - İcra memuru (2022-2023),türk teleko icra memur
+Yılmaz Karadeniz Şti.,yılmaz karade şti
+- Profesör (2019-2023),profesör
+Gül Yüksel Ltd. - Tellal (2019-2024),gül yüksel ltd tellal
+Bilgin Şti.,bilgi şti
+- Hattat (2020-2023),hattat
+Yıldırım Ltd. - Yazar (2018-2023),yıldır ltd yazar
+İnönü Ltd. - Kuyumcu (2022-2025),inö ltd kuyumcu
+Turkcell - Başbakan (2021-2025),turkcell başbaka
+Öcalan A.Ş.,öcala
+- Şekerci (2022-2023),şekerci
+Aselsan - Gelir uzmanı (2021-2025),asel gelir uzma
+Mansız Akçay Şti.,mansız akçay şti
+- Danışman (2023-2025),danışma
+Yüksel Şti.,yüksel şti
+- Sicil memuru (2022-2024),sicil memur
+Mansız A.Ş.,mansız
+- Ambalajcı (2020-2025),ambalajcı
+Durmuş Zorlu A.Ş.,dur zorlu
+- Kamyoncu (2018-2024),kamyoncu
+Petrol Ofisi - Opera sanatçısı (2021-2024),petrol ofis oper sanatçıs
+Çamurcuoğlu Türk A.Ş.,çamurcuoğlu türk
+- Dadı (2020-2025),dadı
+Akça Şama A.Ş.,akça şa
+- Matkapçı (2022-2023),matkapçı
+ŞOK Marketler - Müsteşar (2020-2023),şok market müsteşar
+Gül Ltd. - Jokey (2023-2023),gül ltd jokey
+Seven Yıldırım Ltd. - Biyomedikal Mühendisi (2023-2025),seve yıldır ltd biyomedikal mühendis
+Fırat Ltd. - Palyaço (2023-2023),fırat ltd palyaço
+Petrol Ofisi - Desinatör (2022-2024),petrol ofis desinatör
+Çetin Arslan A.Ş.,çet arsla
+- Temsilci (2019-2024),temsilci
+Türk A.Ş.,türk
+- Fermantasyon işçisi (2020-2024),fermantasyo işçis
+Dumanlı Yılmaz Ltd. - Oduncu (2020-2025),dumanlı yılmaz ltd oduncu
+Sakarya Durmuş Şti.,sakarya dur şti
+- Genetik mühendisi (2018-2023),genetik mühendis
+Bilgin A.Ş.,bilgi
+- Kuşbilimci (2020-2023),kuşbilimci
+Karadeniz A.Ş.,karade
+- Mürebbiye (2018-2025),mürebbi
+Arslan Yılmaz Şti.,arsla yılmaz şti
+- Vali (2018-2023),vali
+Akça A.Ş.,akça
+- Tarım işçisi (2020-2023),tar işçis
+Yaman A.Ş.,yama
+- Çevre mühendisi (2022-2023),çevre mühendis
+Yılmaz Ltd. - Sigortacı (2021-2023),yılmaz ltd sigortaç
+Sezgin Yıldırım A.Ş.,sezgi yıldır
+- Orgeneral (2018-2023),orgeneral
+Sezgin Yıldırım A.Ş.,sezgi yıldır
+- Celep (2020-2024),celep
+Türk Telekom - Madenci (2019-2025),türk teleko madenci
+Fırat Şti.,fırat şti
+- İnşaatçı (2023-2023),inşaatçı
+Selçuk Ecza - Camcı (2019-2025),selçuk ecza camcı
+Bilir Akgündüz A.Ş.,bilir akgündüz
+- Laborant (2023-2025),laborant
+ŞOK Marketler - Sosyal hizmet uzmanı (2020-2024),şok market sosyal hizmet uzma
+Akdeniz Akgündüz A.Ş.,akde akgündüz
+- Çevik Kuvvet (2019-2025),çevik kuvvet
+Sezgin Zengin Şti.,sezgi zengi şti
+- Astsubay (2019-2023),astsubay
+Roketsan - Karpuzcu (2020-2023),roket karpuzcu
+Eraslan Gül Şti.,erasla gül şti
+- Yorumcu (2021-2023),yorumcu
+Güçlü Şti.,güçlü şti
+- Kasiyer (2022-2025),kasiyer
+ŞOK Marketler - Modelist (2020-2025),şok market modelist
+Türk A.Ş.,türk
+- Kadın berberi (2019-2025),kadı berber
+Türk Hava Yolları - Piyango satıcısı (2018-2025),türk hav yol piyango satıcıs
+Bilir Sezgin Ltd. - Uydu antenci (2022-2024),bilir sezgi ltd u antenci
+Toyota Otomotiv - Rehber (2020-2023),toyo otomotiv rehber
+Anadolu Efes - Göz doktoru (2020-2024),anadol efes göz doktor
+Çamurcuoğlu Şensoy A.Ş.,çamurcuoğlu şensoy
+- Asker (2023-2025),asker
+Hayrioğlu Dumanlı A.Ş.,hayrioğlu dumanlı
+- Oymacı (2023-2025),oymaç
+Bilir Şener A.Ş.,bilir şener
+- Aktris (2021-2024),aktris
+Arslan Akçay Şti.,arsla akçay şti
+- Diş hekimi (2019-2024),diş hek
+Akgündüz Ltd. - Yeminli mali müşavir (2019-2024),akgündüz ltd yeminli mali müşavir
+ŞOK Marketler - Dilenci (2021-2024),şok market dilenci
+Şama Çetin Şti.,şa çet şti
+- Başkomiser (2019-2025),başkomiser
+Durmuş Akçay Şti.,dur akçay şti
+- Dalgıç (2018-2024),dalgıç
+Demir Şener Ltd. - Aşçı (2020-2024),demir şener ltd aşçı
+Tevetoğlu Eraslan Şti.,tevetoğlu erasla şti
+- Armatör (2023-2025),armatör
+Yorulmaz A.Ş.,yorulmaz
+- Öğretim elemanı (2021-2025),öğret elema
+Türk Hançer Ltd. - Subay (2020-2023),türk hançer ltd subay
+İnönü Ergül Şti.,inö ergül şti
+- İllüzyonist (2019-2023),illüzyonist
+ŞOK Marketler - Hostes (2019-2023),şok market hostes
+Akgündüz Yorulmaz A.Ş.,akgündüz yorulmaz
+- Pansumancı (2018-2024),pansumancı
+Akgündüz Korutürk Ltd. - Radyolog (2021-2025),akgündüz korutürk ltd radyologu
+Seven Zengin Şti.,seve zengi şti
+- Embriyolog (2023-2023),embriyologu
+Ford Otosan - İcra memuru (2019-2024),ford otosa icra memur
+Sezgin Şti.,sezgi şti
+- Buldozer operatörü (2019-2025),buldozer operatör
+Tüpraş - Pilavcı (2018-2024),tüpraş pilavcı
+Sezer Arslan A.Ş.,sezer arsla
+- Aşçıbaşı (2019-2025),aşçıbaş
+Gül A.Ş.,gül
+- Stenograf (2021-2024),stenograf
+Yıldırım Ltd. - Müneccim (2020-2023),yıldır ltd münecç
+Limak İnşaat - Tümamiral (2021-2024),limak inşaat tümamiral
+İhsanoğlu Durdu Ltd. - Yayıncı (2020-2023),ihsanoğlu dur ltd yayıncı
+Bilgin A.Ş.,bilgi
+- Kaportacı (2021-2023),kaportaç
+Vestel - Camcı (2020-2023),vestel camcı
+Oyak Renault - Koruma görevlisi (2022-2024),oyak renault kor görevlis
+Öcalan Gül A.Ş.,öcala gül
+- Çikolatacı (2022-2023),çikolataç
+Oyak Renault - Meteoroloji uzmanı (2018-2024),oyak renault meteoroloj uzma
+Petkim - Cost Control (2023-2023),petk cost control
+Karadeniz Şama Şti.,karade şa şti
+- Tasarımcı (2018-2024),tasarımcı
+Demir Çetin Ltd. - Saat tamircisi (2022-2025),demir çet ltd saat tamircis
+Aslan Şti.,asla şti
+- Gitarist (2018-2023),gitarist
+Toyota Otomotiv - Proktolog (2018-2025),toyo otomotiv proktologu
+Yıldırım Fırat Ltd. - Test mühendisi (2022-2025),yıldır fırat ltd test mühendis
+Limak İnşaat - Papaz (2018-2025),limak inşaat papaz
+Zorlu Ltd. - Redaktör (2018-2025),zorlu ltd redaktör
+Limak İnşaat - Tarım işçisi (2023-2024),limak inşaat tar işçis
+Mansız Bilgin Şti.,mansız bilgi şti
+- Astronot (2019-2023),astronot
+Yaman Şensoy Ltd. - Piyango satıcısı (2023-2023),yama şensoy ltd piyango satıcıs
+BİM - Radyoloji teknisyeni/teknikeri (2018-2024),bim radyoloji teknisyenitekniker
+Dumanlı Tarhan A.Ş.,dumanlı tarha
+- Dokumacı (2020-2023),dokumaç
+Demirel A.Ş.,demirel
+- İpçi (2022-2025),ipçi
+Yüksel Şti.,yüksel şti
+- Cerrah (2020-2025),cerrah
+Demir A.Ş.,demir
+- Manastır baş rahibesi (2021-2024),manas baş rahibes
+Şafak Seven Ltd. - Tesisatçı (2019-2023),şafak seve ltd tesisatçı
+Akdeniz Soylu A.Ş.,akde soylu
+- Hemşire (2019-2025),hemşir
+Çorlu Ltd. - Sosyolog (2022-2025),çorlu ltd sosyologu
+Akar A.Ş.,akar
+- Ayakkabı tamircisi (2020-2025),ayakkap tamircis
+Şişecam - Seyis (2019-2025),şişeca seyis
+Şafak Ltd. - Sürveyan (2019-2025),şafak ltd sürveya
+Durdu Hançer A.Ş.,dur hançer
+- Host (2023-2024),host
+Arçelik - Oyun hostesi (2018-2023),arçelik oy hostes
+Türk Hançer Ltd. - Forklift operatörü (2019-2024),türk hançer ltd forklift operatör
+Akçay Şti.,akçay şti
+- İnşaat mühendisi (2019-2025),inşaat mühendis
+Ford Otosan - Yargıç (2023-2023),ford otosa yargıç
+Gül Sezgin Ltd. - İllüzyonist (2019-2023),gül sezgi ltd illüzyonist
+Güçlü Aslan Şti.,güçlü asla şti
+- Subay (2023-2025),subay
+Zorlu Şti.,zorlu şti
+- Jokey (2019-2023),jokey
+Petkim - Genetik mühendisi (2019-2023),petk genetik mühendis
+Durdu Seven Şti.,dur seve şti
+- Kahveci (2018-2023),kahveç
+Yıldırım Durdu Şti.,yıldır dur şti
+- Kumaşçı (2020-2024),kumaşçı
+Sezgin Yorulmaz Şti.,sezgi yorulmaz şti
+- Veznedar (2022-2024),veznedar
+Vestel - Haham (2021-2025),vestel haha
+Akar Şti.,akar şti
+- Piskopos (2022-2025),piskopos
+Akçay Mansız A.Ş.,akçay mansız
+- Astronot (2023-2023),astronot
+Opet - Köşe yazarı (2018-2023),opet köş yazar
+Eraslan Şti.,erasla şti
+- Jeomorfolog (2023-2025),jeomorfologu
+Aselsan - Üretici (2018-2023),asel üretiç
+Yılmaz Aksu Şti.,yılmaz aksu şti
+- Koleksiyoncu (2018-2024),koleksiyoncu
+LC Waikiki - Hastabakıcı (2021-2025),waikik hastabakıç
+Roketsan - Sahil koruma (2019-2025),roket sahil kor
+Tüpraş - Veteriner sağlık teknisyeni (2022-2023),tüpraş veteriner sağlık teknisye
+Roketsan - Manifaturacı (2022-2023),roket manifaturaç
+A101 Yeni Mağzacılık - Şarküter (2021-2024),ye mağzacılık şarküter
+Alemdar Çorlu Ltd. - Sansürcü (2018-2025),alemdar çorlu ltd sansürcü
+Çamurcuoğlu Yılmaz Ltd. - Kahveci (2021-2025),çamurcuoğlu yılmaz ltd kahveç
+Petkim - Çiftlik işletici (2021-2024),petk çiftlik işletiç
+Çamurcuoğlu A.Ş.,çamurcuoğlu
+- Geyşa (2023-2023),geyşa
+Çetin Şti.,çet şti
+- Tatlıcı (2020-2025),tatlıç
+Akçay Ltd. - Hastabakıcı (2018-2023),akçay ltd hastabakıç
+Bilge Ltd. - İktisatçı (2020-2023),bilge ltd iktisatçı
+Bilir Sezgin A.Ş.,bilir sezgi
+- Jeolog (2018-2025),jeologu
+Arçelik - Guru (2021-2023),arçelik gur
+Duran Manço Ltd. - Müşavir (2023-2024),dura manço ltd müşavir
+Çamurcuoğlu Arslan A.Ş.,çamurcuoğlu arsla
+- Sigortacı (2020-2025),sigortaç
+Demirel Eraslan Şti.,demirel erasla şti
+- Piyango satıcısı (2020-2023),piyango satıcıs
+Petkim - Borucu (2021-2025),petk boruç
+Bilge İhsanoğlu A.Ş.,bilge ihsanoğlu
+- Araba satıcısı (2020-2024),arap satıcıs
+Türk Hava Yolları - Eğitimci (2023-2025),türk hav yol eğitimci
+Duran Şti.,dura şti
+- Şapel papazı (2023-2023),şapel papaz
+A101 Yeni Mağzacılık - Müzisyen (2021-2025),ye mağzacılık müzisye
+Yıldırım Şti.,yıldır şti
+- Sekreter (2019-2023),sekreter
+Gül Şama Şti.,gül şa şti
+- Teğmen (2018-2023),teğme
+Tevetoğlu Arsoy Ltd. - Karpuzcu (2023-2024),tevetoğlu arsoy ltd karpuzcu
+Anadolu Efes - Kaplamacı (2020-2025),anadol efes kaplamaç
+Anadolu Efes - Sosyal hizmet uzmanı (2023-2024),anadol efes sosyal hizmet uzma
+Zorlu Şti.,zorlu şti
+- Kemancı (2018-2024),kemancı
+Türk Hava Yolları - Aktar (2019-2024),türk hav yol aktar
+Opet - Korsan (2023-2025),opet kor
+Çetin Şti.,çet şti
+- Komiser (2023-2024),komiser
+Ülker Alemdar Şti.,ülker alemdar şti
+- Proktolog (2019-2024),proktologu
+Korutürk Ltd. - Ambalajcı (2020-2023),korutürk ltd ambalajcı
+Çetin Karadeniz Ltd. - Lokomotifçi (2018-2024),çet karade ltd lokomotifçi
+Şener Seven A.Ş.,şener seve
+- Teknisyen (2019-2024),teknisye
+Aslan Ertaş Ltd. - Araba yıkayıcısı (2021-2024),asla ertaş ltd arap yıkayıcıs
+Akdeniz Çetin Ltd. - Armatör (2018-2023),akde çet ltd armatör
+Şama Gül Ltd. - Kaloriferci (2023-2023),şa gül ltd kaloriferci
+Türk Arsoy A.Ş.,türk arsoy
+- Proktolog (2022-2023),proktologu
+Manço Dumanlı Ltd. - Kahveci (2021-2024),manço dumanlı ltd kahveç
+Şişecam - Pandomimci (2020-2024),şişeca pandomimci
+Ertaş Sezgin Ltd. - Tekniker (2018-2024),ertaş sezgi ltd tekniker
+Kısakürek Şama A.Ş.,kısakürek şa
+- Eleştirmen (2022-2025),eleştirme
+Çorlu Ltd. - Karoserci (2022-2025),çorlu ltd karoserci
+Ford Otosan - Motor tamircisi (2023-2024),ford otosa motor tamircis
+İhsanoğlu Şti.,ihsanoğlu şti
+- Uçuş teknisyeni (2020-2023),uçuş teknisye
+Aselsan - Muhtar (2023-2024),asel muhtar
+Aselsan - Teşrifatçı (2022-2024),asel teşrifatçı
+Hançer Ergül A.Ş.,hançer ergül
+- Astrofizikçi (2018-2025),astrofizikçi
+Arçelik - Veteriner sağlık teknisyeni (2020-2023),arçelik veteriner sağlık teknisye
+Manço İnönü Ltd. - Maketçi (2021-2024),manço inö ltd maketçi
+Öcalan Fırat Ltd. - Montajcı (2023-2025),öcala fırat ltd montajcı
+Manço A.Ş.,manço
+- Peyzaj mimarı (2018-2023),peyzaj mimar
+Sezer Akdeniz Ltd. - Ağ yöneticisi (2023-2024),sezer akde ltd yöneticis
+Öcalan Eraslan A.Ş.,öcala erasla
+- Koruma görevlisi (2023-2024),kor görevlis
+Durdu Ltd. - Sunucu (2021-2024),dur ltd sunuç
+Sezer A.Ş.,sezer
+- Adli tabip (2019-2023),adli tabip
+Akdeniz Şti.,akde şti
+- Laborant (2020-2024),laborant
+A101 Yeni Mağzacılık - Antropolog (2023-2024),ye mağzacılık antropologu
+LC Waikiki - Kamyoncu (2021-2025),waikik kamyoncu
+Yaman Erdoğan A.Ş.,yama erdoğa
+- Jimnastikçi (2022-2024),jimnastikçi
+Öcalan A.Ş.,öcala
+- Göz doktoru (2018-2024),göz doktor
+BİM - Lokomotifçi (2021-2023),bim lokomotifçi
+Tevetoğlu Manço A.Ş.,tevetoğlu manço
+- Fermantasyon işçisi (2022-2023),fermantasyo işçis
+Seven Mansız A.Ş.,seve mansız
+- Silahçı (2020-2024),silahçı
+Tevetoğlu Aslan A.Ş.,tevetoğlu asla
+- Stenograf (2021-2025),stenograf
+Manço Sezer A.Ş.,manço sezer
+- Kaynakçı (2019-2024),kaynakçı
+Erdoğan A.Ş.,erdoğa
+- Eczacı (2023-2023),eczaç
+Petkim - Psikolojik danışmanlık ve rehberlik (2019-2025),petk psikolojik danışmanlık rehberlik
+Ertaş Arslan Şti.,ertaş arsla şti
+- Bakırcı (2019-2025),bakırcı
+Sezer Ltd. - Sicil memuru (2022-2024),sezer ltd sicil memur
+Anadolu Efes - Jeomorfolog (2018-2024),anadol efes jeomorfologu
+Tofaş - Mübaşir (2019-2024),tofaş mübaşir
+Roketsan - Masör (2023-2025),roket masör
+İhsanoğlu Bilge Şti.,ihsanoğlu bilge şti
+- Çikolatacı (2018-2023),çikolataç
+Güçlü Şti.,güçlü şti
+- Tellal (2020-2024),tellal
+Durmuş Akar Şti.,dur akar şti
+- Matematikçi (2019-2023),matematikçi
+Vestel - Sistem yöneticisi (2021-2024),vestel siste yöneticis
+Akçay Aslan A.Ş.,akçay asla
+- Duvarcı (2023-2023),duvarcı
+Kısakürek Ltd. - Çantacı (2019-2025),kısakürek ltd çantaç
+Akçay Akgündüz Şti.,akçay akgündüz şti
+- Pideci (2022-2024),pideç
+Havelsan - Şemsiyeci (2023-2025),havel şemsiyeç
+Sakarya Sezgin Ltd. - Fizyoterapist (2021-2025),sakarya sezgi ltd fizyoterapist
+Arçelik - Cerrah (2023-2025),arçelik cerrah
+Turkcell - Mumyalayıcı (2022-2024),turkcell mumyalayıç
+Şişecam - Pencereci (2019-2024),şişeca pencereç
+Eraslan Sezgin A.Ş.,erasla sezgi
+- Depocu (2019-2023),depoç
+Gülen A.Ş.,güle
+- Piskopos (2023-2023),piskopos
+Aselsan - Tavukçu (2018-2025),asel tavukçu
+İhsanoğlu Akdeniz Şti.,ihsanoğlu akde şti
+- Çevre mühendisi (2021-2024),çevre mühendis
+EnerjiSA - Değirmenci (2021-2024),enerjisa değirmenci
+Petrol Ofisi - Simyacı (2023-2024),petrol ofis simyaç
+ŞOK Marketler - İç mimar (2020-2025),şok market mimar
+Duran Çamurcuoğlu A.Ş.,dura çamurcuoğlu
+- Paketleyici (2020-2024),paketleyiç
+Korutürk Şti.,korutürk şti
+- Çocuk doktoru (2020-2025),çocuk doktor
+Migros - Rektör yardımcısı (2021-2025),migros rektör yardımcıs
+EnerjiSA - Teknoloji uzmani (2018-2024),enerjisa teknoloj uzmani
+EnerjiSA - Laboratuvar işçisi (2019-2025),enerjisa laboratuvar işçis
+Peak Games - Lostracı (2021-2024),peak games lostraç
+Gül Ltd. - Matbaacı (2020-2023),gül ltd matbaaç
+Öcalan Demir Şti.,öcala demir şti
+- Arpist (2020-2024),arpist
+Kısakürek Şti.,kısakürek şti
+- Laborant (2020-2024),laborant
+EnerjiSA - Meydancı (2020-2024),enerjisa meydancı
+Aksu Akçay Ltd. - Özel şoför (2022-2023),aksu akçay ltd özel şoför
+Çorlu Mansız A.Ş.,çorlu mansız
+- Başhemşire (2023-2025),başhemşir
+Akgündüz Arslan Şti.,akgündüz arsla şti
+- Test pilotu (2021-2024),test pilot
+Petkim - Sigortacı (2018-2024),petk sigortaç
+Akgündüz Akdeniz A.Ş.,akgündüz akde
+- Kayıkçı (2020-2024),kayıkçı
+Masomo - Dondurmacı (2022-2025),masomo dondurmaç
+Şafak Şama A.Ş.,şafak şa
+- Gıda mühendisi (2018-2023),gı mühendis
+Mansız Mansız Ltd. - Sulh hâkimi (2022-2023),mansız mansız ltd sulh hk
+Mansız Bilge A.Ş.,mansız bilge
+- Vitrinci (2020-2024),vitrinci
+A101 Yeni Mağzacılık - Kapıcı (2022-2024),ye mağzacılık kapıç
+Kısakürek Ergül Ltd. - Sistem mühendisi (2018-2023),kısakürek ergül ltd siste mühendis
+Migros - Su tesisatçısı (2023-2024),migros tesisatçıs
+Demir Karadeniz Ltd. - Tornacı (2019-2023),demir karade ltd tornaç
+Ertaş Sakarya Ltd. - Peçeteci (2019-2025),ertaş sakarya ltd peçeteç
+Limak İnşaat - Barmen (2020-2025),limak inşaat barme
+Gülen A.Ş.,güle
+- Modelist (2020-2024),modelist
+Şener Arsoy Ltd. - Rot balansçı (2023-2023),şener arsoy ltd rot balansçı
+Karadeniz İhsanoğlu Ltd. - Saatçi (2022-2023),karade ihsanoğlu ltd saatçi
+Petkim - Desinatör (2023-2023),petk desinatör
+Arsoy Ltd. - Çikolatacı (2022-2023),arsoy ltd çikolataç
+Durdu Yaman Ltd. - Sütanne (2018-2025),dur yama ltd sütanne
+Roketsan - Ocakçı (2020-2025),roket ocakçı
+Gülen Şti.,güle şti
+- Adli tabip (2022-2025),adli tabip
+Zorlu Kısakürek A.Ş.,zorlu kısakürek
+- Başrahip (2023-2024),başrahip
+Vestel - Psikolojik danışmanlık ve rehberlik (2023-2024),vestel psikolojik danışmanlık rehberlik
+BİM - Elektrikçi (2020-2023),bim elektrikçi
+ŞOK Marketler - Metin yazarı (2020-2023),şok market met yazar
+Peak Games - Profesör (2020-2025),peak games profesör
+BİM - Gümrük müşavir yardımcısı (2019-2025),bim gümrük müşavir yardımcıs
+Hançer Ltd. - Modacı (2018-2025),hançer ltd modaç
+Akça Ülker A.Ş.,akça ülker
+- Şarap üreticisi (2020-2023),şarap üreticis
+Peak Games - Makastar (2022-2025),peak games makastar
+Hayrioğlu Ltd. - Korgeneral (2021-2023),hayrioğlu ltd korgeneral
+Kısakürek A.Ş.,kısakürek
+- Tekniker (2020-2023),tekniker
+Hayrioğlu Türk Ltd. - Su tesisatçısı (2019-2024),hayrioğlu türk ltd tesisatçıs
+Turkcell - Okutman (2018-2023),turkcell okutma
+Bilgin Şti.,bilgi şti
+- Kahveci (2023-2023),kahveç
+Şafak Şti.,şafak şti
+- Polis şefi (2020-2023),polis şef
+Yüksel Bilge Ltd. - Forklift operatörü (2020-2024),yüksel bilge ltd forklift operatör
+Durmuş Şti.,dur şti
+- Yönetici (2022-2025),yönetiç
+Çorlu Şti.,çorlu şti
+- Hakem (2023-2023),hake
+Arslan Şener A.Ş.,arsla şener
+- Devlet memuru (2021-2025),devlet memur
+Gül Soylu A.Ş.,gül soylu
+- Kaportacı (2020-2023),kaportaç
+Aselsan - Seyis (2021-2024),asel seyis
+Gülen Türk Ltd. - Gazeteci (2023-2023),güle türk ltd gazeteç
+Alemdar Sakarya Ltd. - Devlet memuru (2020-2023),alemdar sakarya ltd devlet memur
+Opet - Peçeteci (2021-2024),opet peçeteç
+Karadeniz Şti.,karade şti
+- Lokantacı (2018-2024),lokantaç
+Ergül Sezer A.Ş.,ergül sezer
+- Kazıcı (2018-2024),kazıç
+Eraslan Ltd. - Çevre mühendisi (2020-2025),erasla ltd çevre mühendis
+Tüpraş - Gökbilimci (2023-2024),tüpraş gökbilimci
+Bilgin Dumanlı Şti.,bilgi dumanlı şti
+- Cerrah (2021-2025),cerrah
+Şensoy Durmuş Şti.,şensoy dur şti
+- Belediye meclisi üyesi (2018-2023),beledi meclis üyes
+Bilgin Ltd. - Şarküter (2020-2023),bilgi ltd şarküter
+Alemdar Çamurcuoğlu Şti.,alemdar çamurcuoğlu şti
+- Anahtarcı (2019-2024),anahtarcı
+Aksu Şti.,aksu şti
+- Kırtasiyeci (2019-2023),kırtasiyeç
+Arçelik - Fahişe (2019-2024),arçelik fahiş
+Petkim - İşaretçi (2023-2025),petk işaretçi
+Durdu A.Ş.,dur
+- Mermerci (2020-2024),mermerci
+Seven Türk Ltd. - Susuz araç yıkama (2019-2025),seve türk ltd sus araç yıka
+Akgündüz A.Ş.,akgündüz
+- Tesisatçı (2022-2025),tesisatçı
+A101 Yeni Mağzacılık - Yorumcu (2022-2024),ye mağzacılık yorumcu
+Seven A.Ş.,seve
+- Mikrobiyolog (2023-2023),mikrobiyologu
+LC Waikiki - Eleştirmen (2019-2024),waikik eleştirme
+Akçay Tevetoğlu A.Ş.,akçay tevetoğlu
+- Rektör yardımcısı (2021-2024),rektör yardımcıs
+Sezer A.Ş.,sezer
+- Lostracı (2020-2025),lostraç
+Akçay Şti.,akçay şti
+- Müteahhit (2020-2025),müteahhit
+Akça A.Ş.,akça
+- Uzay mühendisi (2021-2023),uzay mühendis
+Durdu Şti.,dur şti
+- Silahçı (2021-2024),silahçı
+Akar Şener A.Ş.,akar şener
+- Bakan (2020-2023),baka
+Yorulmaz Yaman Şti.,yorulmaz yama şti
+- Laborant (2019-2023),laborant
+Yüksel Ertaş A.Ş.,yüksel ertaş
+- Arşivci (2022-2023),arşivci
+Yılmaz Soylu Şti.,yılmaz soylu şti
+- Savcı (2021-2023),savcı
+Migros - Böcekbilimci (2022-2024),migros böcekbilimci
+Yaman Arslan Şti.,yama arsla şti
+- Eskici (2019-2025),eskiç
+Mansız Şti.,mansız şti
+- Çevik Kuvvet (2021-2024),çevik kuvvet
+Hançer Türk Ltd. - Celep (2021-2024),hançer türk ltd celep
+Limak İnşaat - Psikolog (2020-2023),limak inşaat psikologu
+Ergül Akdeniz Şti.,ergül akde şti
+- Motorcu (2023-2024),motorcu
+Akgündüz Arslan A.Ş.,akgündüz arsla
+- Sınırlı baş makinist (2022-2025),sınırlı baş makinist
+Roketsan - Kütüphaneci (2023-2023),roket kütüphaneç
+A101 Yeni Mağzacılık - Mevsimlik işçi (2021-2025),ye mağzacılık mevsimlik işçi
+Korutürk Ltd. - Yüzücü (2022-2024),korutürk ltd yüzüç
+Seven Durmuş Ltd. - Bozacı (2021-2024),seve dur ltd bozaç
+Peak Games - Göz doktoru (2021-2023),peak games göz doktor
+Çetin A.Ş.,çet
+- Fabrika işçisi (2021-2024),fabrik işçis
+Akdeniz Şti.,akde şti
+- Tercüman (2018-2024),tercüma
+Ertaş Seven Ltd. - Bütçe uzmanı (2019-2025),ertaş seve ltd bütçe uzma
+Demirel Akdeniz A.Ş.,demirel akde
+- Teğmen (2022-2023),teğme
+Toyota Otomotiv - Bakan (2021-2025),toyo otomotiv baka
+Arsoy Şti.,arsoy şti
+- Model (2021-2025),model
+Şensoy Ltd. - Video editörü (2020-2023),şensoy ltd video editör
+Bilir Güçlü Şti.,bilir güçlü şti
+- Nalbur (2019-2025),nalbur
+Aslan A.Ş.,asla
+- Veri hazırlama ve kontrol işletmeni (2019-2025),ver hazırla kontrol işletme
+Ertaş Ltd. - Hattat (2023-2023),ertaş ltd hattat
+Mansız A.Ş.,mansız
+- Yayıncı (2022-2025),yayıncı
+Şişecam - Elektrikçi (2021-2025),şişeca elektrikçi
+Ergül A.Ş.,ergül
+- Hamurkâr (2023-2023),hamurkr
+Toyota Otomotiv - Uçuş teknisyeni (2018-2025),toyo otomotiv uçuş teknisye
+Şişecam - Editör (2020-2023),şişeca editör
+Aslan Ergül A.Ş.,asla ergül
+- Mobilyacı (2021-2023),mobilyaç
+Soylu Güçlü A.Ş.,soylu güçlü
+- Stenograf (2022-2024),stenograf
+Turkcell - Başrahip (2020-2024),turkcell başrahip
+Manço Duran Ltd. - Hukukçu (2022-2024),manço dura ltd hukukçu
+Akça Hayrioğlu A.Ş.,akça hayrioğlu
+- Krupiye (2021-2023),krupi
+Akçay Şti.,akçay şti
+- Tuzcu (2018-2023),tuzcu
+Anadolu Efes - Simitçi (2020-2023),anadol efes simitçi
+Dumanlı Ltd. - Aktris (2020-2025),dumanlı ltd aktris
+Anadolu Efes - Müzisyen (2018-2023),anadol efes müzisye
+Türk Alemdar A.Ş.,türk alemdar
+- Çırak (2020-2023),çırak
+Türk Hava Yolları - Topçu (2021-2025),türk hav yol topçu
+Zorlu Şener A.Ş.,zorlu şener
+- Saz şairi (2021-2024),saz şair
+Demirel Şti.,demirel şti
+- Mimar (2019-2023),mimar
+Mansız Şensoy A.Ş.,mansız şensoy
+- Damıtıcı (2023-2025),damıtıç
+Hayrioğlu Hançer Ltd. - Terzi (2023-2025),hayrioğlu hançer ltd terzi
+Fırat Durmuş Şti.,fırat dur şti
+- Arıcı (2022-2023),arıç
+Korutürk Fırat Ltd. - Uzman Çavuş (2021-2024),korutürk fırat ltd uzma çavuş
+Zorlu Ertaş Şti.,zorlu ertaş şti
+- Turşucu (2022-2023),turşuç
+Akgündüz A.Ş.,akgündüz
+- Oymacı (2019-2024),oymaç
+Anadolu Efes - Acentacı (2019-2024),anadol efes acentaç
+Şensoy A.Ş.,şensoy
+- Ahşap tekne yapımcısı (2019-2023),ahşap tekne yapımcıs
+A101 Yeni Mağzacılık - Şimşirci (2019-2023),ye mağzacılık şimşirci
+Yüksel Alemdar Şti.,yüksel alemdar şti
+- Sosyolog (2021-2024),sosyologu
+Arslan Şama Şti.,arsla şa şti
+- Sistem yöneticisi (2022-2023),siste yöneticis
+Akça Şafak A.Ş.,akça şafak
+- Kuşbilimci (2021-2024),kuşbilimci
+Bilgin Şti.,bilgi şti
+- Anahtarcı (2023-2025),anahtarcı
+Sezer Ltd. - Yer teknisyeni (2022-2024),sezer ltd yer teknisye
+ŞOK Marketler - Binicilik (2022-2023),şok market binicilik
+Hançer A.Ş.,hançer
+- Okul müdürü (2023-2024),okul müdür
+Hançer Türk Ltd. - Ayakkabı tamircisi (2023-2025),hançer türk ltd ayakkap tamircis
+Türk Hava Yolları - İstatistikçi (2019-2024),türk hav yol istatistikçi
+Petkim - Kapıcı (2019-2024),petk kapıç
+Opet - Uzman Çavuş (2018-2023),opet uzma çavuş
+Çamurcuoğlu Şti.,çamurcuoğlu şti
+- Halıcı (2022-2023),halıç
+Opet - Polis memuru (2019-2023),opet polis memur
+Sakarya Dumanlı A.Ş.,sakarya dumanlı
+- Oduncu (2020-2025),oduncu
+Şener Bilgin Ltd. - Şapkacı (2019-2024),şener bilgi ltd şapkaç
+Akar Gülen Ltd. - Sunucu (2019-2025),akar güle ltd sunuç
+Peak Games - Böcekbilimci (2022-2023),peak games böcekbilimci
+Durdu Eraslan Şti.,dur erasla şti
+- Opera sanatçısı (2021-2024),oper sanatçıs
+Roketsan - Tabelacı (2022-2024),roket tabelaç
+Tüpraş - Galerici (2023-2024),tüpraş galeriç
+Şişecam - Enstrüman imalatçısı (2020-2024),şişeca enstrüma imalatçıs
+BİM - Debbağ (2023-2024),bim debbak
+Şişecam - Papaz (2019-2023),şişeca papaz
+Zorlu Öcalan Şti.,zorlu öcala şti
+- Polis memuru (2021-2024),polis memur
+Öcalan Dumanlı A.Ş.,öcala dumanlı
+- Kitapçı (2018-2024),kitapçı
+Durdu A.Ş.,dur
+- Hostes (2023-2024),hostes
+Demirel Erdoğan Ltd. - Pansiyoncu (2022-2024),demirel erdoğa ltd pansiyoncu
+Limak İnşaat - İşportacı (2019-2023),limak inşaat işportaç
+Vestel - Masör (2020-2023),vestel masör
+Yüksel A.Ş.,yüksel
+- Garson (2018-2025),garso
+Güçlü Akçay Ltd. - Balıkçı (2020-2025),güçlü akçay ltd balıkçı
+Şişecam - Lostracı (2022-2024),şişeca lostraç
+Güçlü Çetin Ltd. - Fermantasyon işçisi (2020-2024),güçlü çet ltd fermantasyo işçis
+Türk Hava Yolları - Ornitolog (2019-2023),türk hav yol ornitologu
+Gül Arsoy Şti.,gül arsoy şti
+- Kumcu (2019-2024),kumcu
+Soylu Şensoy Ltd. - Hareket memuru (2022-2023),soylu şensoy ltd hareket memur
+Sakarya A.Ş.,sakarya
+- Jeoloji mühendisi (2021-2023),jeoloj mühendis
+Turkcell - Tavukçu (2021-2025),turkcell tavukçu
+Akdeniz A.Ş.,akde
+- Kütüphaneci (2020-2024),kütüphaneç
+Arsoy Şafak Ltd. - Marangoz (2021-2024),arsoy şafak ltd marangoz
+Masomo - Kameraman (2023-2024),masomo kamerama
+Sezgin Ltd. - Emniyet amiri (2023-2023),sezgi ltd emniyet amir
+Arçelik - Tatlıcı (2023-2023),arçelik tatlıç
+EnerjiSA - Yol bekçisi (2020-2025),enerjisa yol bekçis
+Sezer Yorulmaz A.Ş.,sezer yorulmaz
+- Kuaför (2019-2023),kuaför
+Durdu Zorlu Ltd. - Hayvan bakıcısı (2023-2024),dur zorlu ltd hayva bakıcıs
+Arslan Şensoy Şti.,arsla şensoy şti
+- Kemancı (2020-2025),kemancı
+Arsoy Fırat Şti.,arsoy fırat şti
+- Tellal (2022-2025),tellal
+Sezgin A.Ş.,sezgi
+- Sınırlı baş makinist (2023-2024),sınırlı baş makinist
+Mansız Ltd. - Sokak çalgıcısı (2018-2025),mansız ltd sokak çalgıcıs
+Masomo - Ön muhasebe sorumlusu (2019-2023),masomo muhasep sorumlus
+Selçuk Ecza - Sanayici (2022-2023),selçuk ecza sanayiç
+Yüksel Zorlu A.Ş.,yüksel zorlu
+- Çıkıkçı (2020-2023),çıkıkçı
+Akgündüz Eraslan A.Ş.,akgündüz erasla
+- Çırak (2020-2025),çırak
+Limak İnşaat - Suflör (2023-2023),limak inşaat suflör
+Kısakürek Durmuş Ltd. - Aşçıbaşı (2018-2024),kısakürek dur ltd aşçıbaş
+LC Waikiki - Yorgancı (2023-2024),waikik yorgancı
+LC Waikiki - Oyun yazarı (2018-2025),waikik oy yazar
+Çetin Yüksel Ltd. - Kumcu (2019-2023),çet yüksel ltd kumcu
+Yüksel Şti.,yüksel şti
+- Fahişe (2022-2023),fahiş
+Duran Şensoy Ltd. - Geyşa (2018-2025),dura şensoy ltd geyşa
+Ford Otosan - Turizmci (2020-2024),ford otosa turizmci
+Masomo - Test mühendisi (2020-2024),masomo test mühendis
+Güçlü Zengin Şti.,güçlü zengi şti
+- Perukçu (2022-2024),perukçu
+Akdeniz Şti.,akde şti
+- Milletvekili (2020-2023),milletvekil
+Tarhan A.Ş.,tarha
+- Dokumacı (2018-2023),dokumaç
+Türk Telekom - Reklamcı (2020-2025),türk teleko reklamcı
+Yüksel A.Ş.,yüksel
+- Oto tamircisi (2023-2025),oto tamircis
+Petkim - Kesimci (2018-2025),petk kesimci
+Aslan Çorlu Ltd. - Kameraman (2023-2023),asla çorlu ltd kamerama
+Anadolu Efes - Aile hekimi (2018-2025),anadol efes ai hek
+Yıldırım Şensoy Şti.,yıldır şensoy şti
+- Suflör (2023-2024),suflör
+Selçuk Ecza - İthalatçı (2022-2025),selçuk ecza ithalatçı
+Peak Games - Orgcu (2022-2023),peak games orgcu
+Türk Hava Yolları - Elektrikçi (2021-2024),türk hav yol elektrikçi
+Türk Hava Yolları - Eleştirmen (2020-2023),türk hav yol eleştirme
+Çamurcuoğlu A.Ş.,çamurcuoğlu
+- Figüran (2019-2023),figüra
+Tofaş - Dedektif (2022-2025),tofaş dedektif
+Korutürk Ergül Şti.,korutürk ergül şti
+- Tatlıcı (2018-2024),tatlıç
+Arçelik - Tasarımcı (2023-2023),arçelik tasarımcı
+Havelsan - Diyetisyen (2018-2024),havel diyetisye
+Roketsan - Makinist (2023-2025),roket makinist
+Çamurcuoğlu Çamurcuoğlu Ltd. - Taşlayıcı (2022-2024),çamurcuoğlu çamurcuoğlu ltd taşlayıç
+Bilir Ltd. - Hattat (2020-2024),bilir ltd hattat
+Oyak Renault - Asker (2020-2024),oyak renault asker
+Kısakürek Şti.,kısakürek şti
+- Sokak satıcısı (2023-2025),sokak satıcıs
+Akçay Güçlü A.Ş.,akçay güçlü
+- Jeolog (2021-2024),jeologu
+Karadeniz İhsanoğlu A.Ş.,karade ihsanoğlu
+- Tesgahtar (2019-2025),tesgahtar
+Mansız Şafak A.Ş.,mansız şafak
+- Etnolog (2021-2024),etnologu
+Toyota Otomotiv - Hava trafikçisi (2018-2025),toyo otomotiv hav trafikçis
+İhsanoğlu Çorlu A.Ş.,ihsanoğlu çorlu
+- İnsan kaynakları uzmanı (2023-2023),in kaynak uzma
+Akdeniz Akgündüz A.Ş.,akde akgündüz
+- Astsubay (2019-2025),astsubay
+Opet - Keskin Nişancı (2023-2025),opet kesk nişancı
+Yüksel Tevetoğlu A.Ş.,yüksel tevetoğlu
+- Odacı (2023-2023),odaç
+Sezgin Ltd. - Nalbant (2020-2024),sezgi ltd nalbant
+Yüksel Karadeniz A.Ş.,yüksel karade
+- Striptizci (2020-2025),striptizci
+Bilgin Akar Ltd. - Manifaturacı (2022-2024),bilgi akar ltd manifaturaç
+Manço Demirel Şti.,manço demirel şti
+- Subay (2022-2023),subay
+Peak Games - İplikçi (2018-2024),peak games iplikçi
+Masomo - Manav (2023-2025),masomo manav
+Bilir A.Ş.,bilir
+- Albay (2022-2023),albay
+Demir Fırat Ltd. - Bakan (2019-2025),demir fırat ltd baka
+Çamurcuoğlu Şti.,çamurcuoğlu şti
+- Yardımcı hizmetli (2019-2023),yardımcı hizmetli
+Demir Akgündüz A.Ş.,demir akgündüz
+- İktisatçı (2018-2023),iktisatçı
+Öcalan Duran Ltd. - Makinist (2022-2025),öcala dura ltd makinist
+Çetin Yorulmaz A.Ş.,çet yorulmaz
+- Makasçı (2018-2023),makasçı
+LC Waikiki - Kat görevlisi (2018-2023),waikik kat görevlis
+Yüksel Ltd. - Figüran (2022-2025),yüksel ltd figüra
+Arçelik - Tatlıcı (2021-2023),arçelik tatlıç
+Mansız Hançer Ltd. - Tuğgeneral (2020-2024),mansız hançer ltd tuğgeneral
+Demir Aslan A.Ş.,demir asla
+- Denetleyici (2023-2023),denetleyiç
+Şener Sakarya Ltd. - Astronom (2023-2025),şener sakarya ltd astrono
+Durdu Ltd. - Çorapçı (2018-2023),dur ltd çorapçı
+Peak Games - Kitapçı (2018-2024),peak games kitapçı
+Akçay Ltd. - Ayakkabı tamircisi (2019-2023),akçay ltd ayakkap tamircis
+Limak İnşaat - Saatçi (2020-2025),limak inşaat saatçi
+Dumanlı A.Ş.,dumanlı
+- Vergi denetmeni (2022-2024),vergi denetme
+Türk Hava Yolları - Sicil memuru (2019-2024),türk hav yol sicil memur
+Kısakürek Türk A.Ş.,kısakürek türk
+- Milletvekili (2018-2023),milletvekil
+Sezer Bilge Ltd. - Sanat yönetmeni (2023-2024),sezer bilge ltd sanat yönetme
+Akdeniz Ltd. - Koreograf (2022-2024),akde ltd koreograf
+Sakarya Arslan A.Ş.,sakarya arsla
+- Etimolog (2022-2024),etimologu
+Gül Hayrioğlu Şti.,gül hayrioğlu şti
+- Ağ yöneticisi (2019-2023),yöneticis
+Bilge Ltd. - Çatıcı (2020-2023),bilge ltd çatıç
+Peak Games - Greyder operatörü (2020-2025),peak games greyder operatör
+Güçlü Şti.,güçlü şti
+- Kapı satıcısı (2023-2023),kap satıcıs
+Zorlu Ltd. - Balıkçı (2021-2025),zorlu ltd balıkçı
+BİM - Terzi (2021-2023),bim terzi
+Opet - Gazete satıcısı (2018-2023),opet gaze satıcıs
+Seven Türk Ltd. - Asker (2020-2024),seve türk ltd asker
+Petrol Ofisi - Berber (2018-2024),petrol ofis berber
+Sakarya Şti.,sakarya şti
+- Sürveyan (2023-2024),sürveya
+ŞOK Marketler - Devlet memuru (2018-2025),şok market devlet memur
+Çorlu Şti.,çorlu şti
+"- Ayakçı (otogar, lokanta) (2021-2024)",ayakçı otogar loka
+Manço Yılmaz Ltd. - Damıtıcı (2022-2025),manço yılmaz ltd damıtıç
+Akdeniz A.Ş.,akde
+- Tarım işçisi (2023-2024),tar işçis
+Tarhan A.Ş.,tarha
+- Piyanist (2023-2025),piyanist
+Zorlu Ltd. - Çöpçü (2018-2025),zorlu ltd çöpçü
+Türk Telekom - Fon yöneticisi (2021-2025),türk teleko fon yöneticis
+Yorulmaz Şti.,yorulmaz şti
+- Turizmci (2023-2023),turizmci
+Tüpraş - Tuhafiyeci (2020-2023),tüpraş tuhafiyeç
+Durmuş Şti.,dur şti
+- Koruma görevlisi (2022-2023),kor görevlis
+Tüpraş - Hırdavatçı (2023-2023),tüpraş hırdavatçı
+Erdoğan Ltd. - Araba satıcısı (2021-2023),erdoğa ltd arap satıcıs
+Korutürk Hançer A.Ş.,korutürk hançer
+- Gardiyan (2018-2025),gardiya
+Alemdar Şti.,alemdar şti
+- Kimya mühendisi (2019-2023),kimya mühendis

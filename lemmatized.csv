@@ -1,0 +1,1219 @@
+﻿original_sentence,processed_tokens
+"HTML, CSS, Django, MongoDB",Html Unk Django Unk
+"React, JavaScript, Linux, Docker, CSS",Unk Javascript Linux Unk Unk
+"ASP.NET, Java, HTML, C#, C#",Unk Java Html
+"ASP.NET, Next.js, Azure, JavaScript, Git",Unk Unk Azure Javascript gitmek
+"Java, Django, Kubernetes",Java Django Unk
+"Python, SQL, CSS",Python Unk Unk
+"C#, Next.js, React, Docker",Unk Unk Unk
+"MongoDB, Java, Node.js",Unk Java Unk
+"CSS, Next.js, Flutter, SQL",Unk Unk Unk Unk
+"Flask, C#, Django, Git",Unk Django gitmek
+"ASP.NET, Azure, Node.js, Flutter",Unk Azure Unk Unk
+"React, ASP.NET, MongoDB, Kubernetes",Unk Unk Unk Unk
+"SQL, CSS, Python, Python, Next.js, JavaScript",Unk Unk Python Python Unk Javascript
+"Django, Node.js, ASP.NET, Flutter, Next.js, C#",Django Unk Unk Unk Unk
+"ASP.NET, Flask, Java, Java",Unk Unk Java Java
+"Next.js, Linux, MongoDB, JavaScript, Linux, React",Unk Linux Unk Javascript Linux Unk
+"Azure, JavaScript, HTML, Linux",Azure Javascript Html Linux
+"Django, Next.js, Docker",Django Unk Unk
+"Linux, Java, Python, CSS, Docker, Flutter",Linux Java Python Unk Unk Unk
+"SQL, Flask, Python, MongoDB, HTML, Next.js",Unk Unk Python Unk Html Unk
+"Python, MongoDB, MongoDB",Python Unk Unk
+"ASP.NET, HTML, C#, SQL, JavaScript",Unk Html Unk Javascript
+"Azure, Next.js, Git",Azure Unk gitmek
+"SQL, Java, Azure",Unk Java Azure
+"HTML, Git, Linux, React, HTML, Git",Html gitmek Linux Unk Html gitmek
+"Docker, CSS, Next.js, JavaScript, C#, SQL",Unk Unk Unk Javascript Unk
+"CSS, MongoDB, SQL, HTML, MongoDB, Kubernetes",Unk Unk Unk Html Unk Unk
+"C#, Flask, Flask, JavaScript",Unk Unk Javascript
+"Node.js, SQL, HTML",Unk Unk Html
+"HTML, MongoDB, ASP.NET",Html Unk Unk
+"Docker, Azure, JavaScript, MongoDB, CSS, SQL",Unk Azure Javascript Unk Unk Unk
+"Node.js, Next.js, Python",Unk Unk Python
+"JavaScript, Docker, Docker, C#, Linux, Kubernetes",Javascript Unk Unk Linux Unk
+"Next.js, Python, Next.js, ASP.NET",Unk Python Unk Unk
+"Flask, Docker, Java, CSS",Unk Unk Java Unk
+"Docker, HTML, MongoDB, Flask, Java, C#",Unk Html Unk Unk Java
+"C#, Kubernetes, MongoDB",Unk Unk
+"ASP.NET, Linux, Flask",Unk Linux Unk
+"Next.js, Python, Git, React, Flutter, Flask",Unk Python gitmek Unk Unk Unk
+"Docker, Django, JavaScript, Next.js, Flutter, Docker",Unk Django Javascript Unk Unk Unk
+"Node.js, Azure, Django, Python, SQL",Unk Azure Django Python Unk
+"ASP.NET, Git, Git, C#",Unk gitmek gitmek
+"CSS, CSS, Azure, Docker",Unk Unk Azure Unk
+"Python, Azure, Git, Git, Next.js, MongoDB",Python Azure gitmek gitmek Unk Unk
+"ASP.NET, Linux, JavaScript, Python, Docker",Unk Linux Javascript Python Unk
+"Azure, Kubernetes, C#",Azure Unk
+"CSS, Node.js, C#, Python",Unk Unk Python
+"JavaScript, ASP.NET, JavaScript, Docker",Javascript Unk Javascript Unk
+"Linux, Python, Flutter, Java, React",Linux Python Unk Java Unk
+"Docker, React, JavaScript",Unk Unk Javascript
+"Node.js, JavaScript, React, Flutter, Next.js",Unk Javascript Unk Unk Unk
+"Java, React, Git, Flutter, HTML",Java Unk gitmek Unk Html
+"Django, Django, Django",Django Django Django
+"JavaScript, Linux, Docker, Java",Javascript Linux Unk Java
+"Flutter, Flask, HTML, HTML, Node.js",Unk Unk Html Html Unk
+"C#, Git, Kubernetes, Kubernetes",gitmek Unk Unk
+"Flutter, HTML, ASP.NET, MongoDB",Unk Html Unk Unk
+"Docker, Git, Next.js, Node.js",Unk gitmek Unk Unk
+"Django, Azure, JavaScript",Django Azure Javascript
+"HTML, Kubernetes, ASP.NET, Kubernetes",Html Unk Unk Unk
+"React, CSS, React",Unk Unk Unk
+"C#, C#, ASP.NET, JavaScript, HTML",Unk Javascript Html
+"CSS, Flutter, Node.js, Docker, SQL",Unk Unk Unk Unk Unk
+"JavaScript, Flutter, Kubernetes, CSS, ASP.NET",Javascript Unk Unk Unk Unk
+"Python, Flask, JavaScript, SQL",Python Unk Javascript Unk
+"React, MongoDB, Node.js, Kubernetes, Linux, ASP.NET",Unk Unk Unk Unk Linux Unk
+"Flask, CSS, Django, Next.js, JavaScript",Unk Unk Django Unk Javascript
+"Kubernetes, Node.js, MongoDB, Docker, Flask",Unk Unk Unk Unk Unk
+"Flask, Next.js, Node.js, Java, MongoDB",Unk Unk Unk Java Unk
+"Java, CSS, Python, ASP.NET, Flutter",Java Unk Python Unk Unk
+"SQL, React, Docker, Next.js, Node.js",Unk Unk Unk Unk Unk
+"SQL, Flask, Kubernetes, CSS, Flutter",Unk Unk Unk Unk Unk
+"Python, Azure, JavaScript, Java",Python Azure Javascript Java
+"Java, Django, Python, Flask, Linux, HTML",Java Django Python Unk Linux Html
+"Java, MongoDB, Java, CSS",Java Unk Java Unk
+"Docker, Flask, Docker, Java",Unk Unk Unk Java
+"SQL, Python, Flask, SQL, Python, Azure",Unk Python Unk Unk Python Azure
+"MongoDB, ASP.NET, ASP.NET, Flutter, CSS",Unk Unk Unk Unk Unk
+"Azure, Kubernetes, JavaScript, Docker",Azure Unk Javascript Unk
+"ASP.NET, C#, HTML, C#",Unk Html
+"SQL, Kubernetes, Java, Flask, Git, Java",Unk Unk Java Unk gitmek Java
+"C#, Kubernetes, Git, ASP.NET, Flask, CSS",Unk gitmek Unk Unk Unk
+"React, MongoDB, Python",Unk Unk Python
+"MongoDB, Git, Linux, Python, React",Unk gitmek Linux Python Unk
+"Python, Azure, JavaScript, Git, HTML",Python Azure Javascript gitmek Html
+"Flutter, Git, Azure, Django, Flask, Kubernetes",Unk gitmek Azure Django Unk Unk
+"Django, CSS, CSS",Django Unk Unk
+"Java, Linux, Kubernetes, Java, Java, Azure",Java Linux Unk Java Java Azure
+"Kubernetes, React, Next.js, Python, Python, Git",Unk Unk Unk Python Python gitmek
+"Python, Django, Flutter, JavaScript, Django, ASP.NET",Python Django Unk Javascript Django Unk
+"Flask, Git, ASP.NET, Java",Unk gitmek Unk Java
+"C#, Kubernetes, HTML",Unk Html
+"Docker, CSS, Flask, Python",Unk Unk Unk Python
+"Django, MongoDB, MongoDB, Kubernetes, CSS, Linux",Django Unk Unk Unk Unk Linux
+"Java, Docker, Python, Node.js",Java Unk Python Unk
+"Node.js, Flask, Django, Docker, Kubernetes, Azure",Unk Unk Django Unk Unk Azure
+"Node.js, ASP.NET, Kubernetes",Unk Unk Unk
+"Docker, Linux, HTML, Node.js, Flask",Unk Linux Html Unk Unk
+"HTML, Linux, Docker, Azure",Html Linux Unk Azure
+"React, React, ASP.NET",Unk Unk Unk
+"Node.js, Next.js, C#",Unk Unk
+"Node.js, Flutter, Java, Java, MongoDB",Unk Unk Java Java Unk
+"Node.js, Flask, Node.js",Unk Unk Unk
+"Node.js, ASP.NET, Java, Java",Unk Unk Java Java
+"Node.js, Azure, Next.js, C#, Kubernetes",Unk Azure Unk Unk
+"ASP.NET, Java, JavaScript, SQL",Unk Java Javascript Unk
+"CSS, C#, Node.js, Azure, MongoDB, Django",Unk Unk Azure Unk Django
+"CSS, Kubernetes, Node.js, Node.js, Kubernetes",Unk Unk Unk Unk Unk
+"HTML, JavaScript, MongoDB, Kubernetes",Html Javascript Unk Unk
+"C#, Linux, Docker, CSS",Linux Unk Unk
+"CSS, Java, C#",Unk Java
+"Flask, C#, React",Unk Unk
+"HTML, CSS, Azure, Linux, Next.js, Next.js",Html Unk Azure Linux Unk Unk
+"CSS, Linux, ASP.NET, Azure, Azure, SQL",Unk Linux Unk Azure Azure Unk
+"Flask, Linux, Linux, Java",Unk Linux Linux Java
+"JavaScript, Docker, MongoDB, Django, C#, Flask",Javascript Unk Unk Django Unk
+"Next.js, Django, Git, Linux, Flutter",Unk Django gitmek Linux Unk
+"HTML, Docker, HTML, Kubernetes, Docker, HTML",Html Unk Html Unk Unk Html
+"Python, ASP.NET, Node.js, Java",Python Unk Unk Java
+"HTML, Flutter, SQL, Django, ASP.NET",Html Unk Unk Django Unk
+"Flutter, Linux, SQL, Git, Azure",Unk Linux Unk gitmek Azure
+"Java, Git, Django, MongoDB",Java gitmek Django Unk
+"ASP.NET, HTML, React, JavaScript, Flask",Unk Html Unk Javascript Unk
+"Flask, Kubernetes, Django, Kubernetes, MongoDB",Unk Unk Django Unk Unk
+"Django, Git, JavaScript, Azure, Django, Python",Django gitmek Javascript Azure Django Python
+"Next.js, Kubernetes, Docker, Django, CSS, SQL",Unk Unk Unk Django Unk Unk
+"Next.js, Azure, Django, Node.js",Unk Azure Django Unk
+"JavaScript, SQL, Java, SQL",Javascript Unk Java Unk
+"Django, React, Azure, Linux, Flutter",Django Unk Azure Linux Unk
+"Azure, Node.js, HTML, Git, Git, JavaScript",Azure Unk Html gitmek gitmek Javascript
+"Java, Linux, Next.js, Git, Linux",Java Linux Unk gitmek Linux
+"Next.js, CSS, Django, JavaScript",Unk Unk Django Javascript
+"Next.js, Azure, Linux",Unk Azure Linux
+"Flask, Flask, HTML, Azure, Flutter",Unk Unk Html Azure Unk
+"Linux, ASP.NET, SQL",Linux Unk Unk
+"Next.js, Flask, Python",Unk Unk Python
+"Node.js, C#, Node.js, Linux, Flask, React",Unk Unk Linux Unk Unk
+"Docker, C#, Linux",Unk Linux
+"ASP.NET, Docker, Linux, Next.js, JavaScript",Unk Unk Linux Unk Javascript
+"Python, Flutter, Flask",Python Unk Unk
+"Azure, React, Docker, Flutter, SQL, Flutter",Azure Unk Unk Unk Unk Unk
+"ASP.NET, Docker, Flutter, Linux",Unk Unk Unk Linux
+"CSS, Git, HTML, JavaScript",Unk gitmek Html Javascript
+"JavaScript, Django, Python, Next.js",Javascript Django Python Unk
+"Next.js, Docker, HTML, Next.js",Unk Unk Html Unk
+"Node.js, React, Django",Unk Unk Django
+"Kubernetes, Java, Linux, Flutter, React, Azure",Unk Java Linux Unk Unk Azure
+"Node.js, Node.js, Flutter, React, Linux, Flask",Unk Unk Unk Unk Linux Unk
+"MongoDB, Next.js, HTML",Unk Unk Html
+"Node.js, Azure, Kubernetes, Flutter, Git",Unk Azure Unk Unk gitmek
+"Docker, Java, Kubernetes, C#, CSS, Flutter",Unk Java Unk Unk Unk
+"HTML, CSS, ASP.NET",Html Unk Unk
+"Next.js, HTML, Docker",Unk Html Unk
+"HTML, Flask, C#, MongoDB, MongoDB",Html Unk Unk Unk
+"ASP.NET, Flask, Flutter, Kubernetes",Unk Unk Unk Unk
+"MongoDB, Linux, Docker, C#",Unk Linux Unk
+"React, CSS, MongoDB, C#, MongoDB, HTML",Unk Unk Unk Unk Html
+"Java, Django, Next.js",Java Django Unk
+"Node.js, HTML, React, CSS",Unk Html Unk Unk
+"React, C#, Azure, Azure, CSS",Unk Azure Azure Unk
+"HTML, JavaScript, Django, Flutter",Html Javascript Django Unk
+"Python, C#, Next.js, JavaScript, Git, ASP.NET",Python Unk Javascript gitmek Unk
+"MongoDB, Java, Flutter, MongoDB",Unk Java Unk Unk
+"CSS, CSS, Flutter",Unk Unk Unk
+"Docker, React, Next.js, HTML, Django",Unk Unk Unk Html Django
+"Azure, SQL, Java, Django, ASP.NET, Flutter",Azure Unk Java Django Unk Unk
+"React, JavaScript, Git, C#, JavaScript, MongoDB",Unk Javascript gitmek Javascript Unk
+"C#, Java, MongoDB, Flutter",Java Unk Unk
+"Flask, Java, Python, Django, SQL",Unk Java Python Django Unk
+"Flutter, Flask, Azure, ASP.NET, SQL, SQL",Unk Unk Azure Unk Unk Unk
+"Node.js, ASP.NET, Flutter",Unk Unk Unk
+"Docker, Git, ASP.NET, Flask, Git, Flutter",Unk gitmek Unk Unk gitmek Unk
+"ASP.NET, Docker, Node.js, JavaScript, Git",Unk Unk Unk Javascript gitmek
+"Docker, Docker, SQL",Unk Unk Unk
+"Django, Node.js, Git, Flutter, C#",Django Unk gitmek Unk
+"Python, Next.js, SQL, Kubernetes, Next.js, Azure",Python Unk Unk Unk Unk Azure
+"Docker, HTML, Next.js",Unk Html Unk
+"HTML, CSS, CSS",Html Unk Unk
+"React, Docker, Docker, Java, JavaScript, MongoDB",Unk Unk Unk Java Javascript Unk
+"HTML, HTML, Node.js, Linux, SQL, Java",Html Html Unk Linux Unk Java
+"JavaScript, MongoDB, Docker",Javascript Unk Unk
+"C#, CSS, JavaScript",Unk Javascript
+"Flask, Flutter, MongoDB",Unk Unk Unk
+"JavaScript, ASP.NET, Docker, ASP.NET",Javascript Unk Unk Unk
+"Next.js, Flask, Docker, C#, JavaScript",Unk Unk Unk Javascript
+"Flask, Flutter, Java",Unk Unk Java
+"Python, Linux, Linux, Java, MongoDB, Java",Python Linux Linux Java Unk Java
+"HTML, Azure, ASP.NET, Azure",Html Azure Unk Azure
+"Linux, Flask, Next.js, C#",Linux Unk Unk
+"CSS, Linux, Azure",Unk Linux Azure
+"Python, Django, Python",Python Django Python
+"Node.js, React, Next.js, Git",Unk Unk Unk gitmek
+"Git, Flask, JavaScript, React, Azure, Kubernetes",gitmek Unk Javascript Unk Azure Unk
+"C#, ASP.NET, SQL, ASP.NET, Node.js",Unk Unk Unk Unk
+"Git, C#, React, MongoDB, SQL",gitmek Unk Unk Unk
+"Azure, Java, Flutter",Azure Java Unk
+"Git, Next.js, ASP.NET, Java, CSS",gitmek Unk Unk Java Unk
+"Flutter, Kubernetes, Next.js, Flask",Unk Unk Unk Unk
+"Linux, JavaScript, SQL, SQL, Django",Linux Javascript Unk Unk Django
+"HTML, Next.js, C#, Django",Html Unk Django
+"Next.js, Docker, C#",Unk Unk
+"C#, C#, HTML, Git, SQL, Azure",Html gitmek Unk Azure
+"Linux, Django, Next.js, Git",Linux Django Unk gitmek
+"Django, C#, Git, HTML",Django gitmek Html
+"Flask, Python, JavaScript",Unk Python Javascript
+"Docker, Flutter, Kubernetes, CSS, Next.js",Unk Unk Unk Unk Unk
+"Python, HTML, ASP.NET, Azure",Python Html Unk Azure
+"Docker, C#, C#, React, Flutter, Azure",Unk Unk Unk Azure
+"Next.js, JavaScript, Docker, Kubernetes, Kubernetes, Linux",Unk Javascript Unk Unk Unk Linux
+"MongoDB, Git, C#, ASP.NET",Unk gitmek Unk
+"React, Python, Flutter",Unk Python Unk
+"MongoDB, SQL, CSS, Flutter",Unk Unk Unk Unk
+"Node.js, Python, Node.js, Kubernetes, MongoDB",Unk Python Unk Unk Unk
+"React, ASP.NET, Flutter, ASP.NET, Kubernetes",Unk Unk Unk Unk Unk
+"Next.js, Kubernetes, SQL, Python",Unk Unk Unk Python
+"Linux, Flask, ASP.NET, MongoDB, C#",Linux Unk Unk Unk
+"ASP.NET, CSS, Flask",Unk Unk Unk
+"Django, C#, Django",Django Django
+"C#, CSS, Git, CSS, Git",Unk gitmek Unk gitmek
+"Flutter, Node.js, Kubernetes, Next.js",Unk Unk Unk Unk
+"Docker, SQL, C#, Linux, Linux",Unk Unk Linux Linux
+"SQL, Flutter, Java, CSS",Unk Unk Java Unk
+"Next.js, Git, CSS, Linux, Django, Git",Unk gitmek Unk Linux Django gitmek
+"Node.js, HTML, CSS, HTML, Django",Unk Html Unk Html Django
+"SQL, HTML, Kubernetes, Python, Java, MongoDB",Unk Html Unk Python Java Unk
+"Docker, MongoDB, Next.js",Unk Unk Unk
+"Linux, Flutter, Flask",Linux Unk Unk
+"Azure, MongoDB, C#",Azure Unk
+"Python, JavaScript, React",Python Javascript Unk
+"ASP.NET, Kubernetes, Docker",Unk Unk Unk
+"SQL, ASP.NET, SQL, ASP.NET, Node.js",Unk Unk Unk Unk Unk
+"Python, CSS, ASP.NET, MongoDB, C#",Python Unk Unk Unk
+"HTML, Linux, MongoDB, Kubernetes",Html Linux Unk Unk
+"Kubernetes, Docker, Linux, Kubernetes, Kubernetes",Unk Unk Linux Unk Unk
+"Linux, ASP.NET, Flutter",Linux Unk Unk
+"Linux, Kubernetes, Next.js, Flask, MongoDB",Linux Unk Unk Unk Unk
+"Linux, MongoDB, C#, Python, Django",Linux Unk Python Django
+"Kubernetes, Next.js, HTML, Node.js, MongoDB, HTML",Unk Unk Html Unk Unk Html
+"Flask, Linux, Next.js",Unk Linux Unk
+"Python, Docker, CSS, React, React",Python Unk Unk Unk Unk
+"CSS, Flask, Kubernetes, MongoDB, Azure",Unk Unk Unk Unk Azure
+"React, CSS, JavaScript, Linux, Docker, Python",Unk Unk Javascript Linux Unk Python
+"Linux, Docker, Flutter, React",Linux Unk Unk Unk
+"Node.js, JavaScript, Java, SQL",Unk Javascript Java Unk
+"Azure, Django, C#, Azure, Azure",Azure Django Azure Azure
+"Flutter, Docker, C#, SQL, Git, Flask",Unk Unk Unk gitmek Unk
+"Linux, C#, CSS",Linux Unk
+"Next.js, Linux, ASP.NET, HTML",Unk Linux Unk Html
+"Next.js, HTML, C#, Flask, SQL",Unk Html Unk Unk
+"C#, Kubernetes, ASP.NET, ASP.NET, Linux",Unk Unk Unk Linux
+"ASP.NET, Next.js, Flutter, Python, Django, Kubernetes",Unk Unk Unk Python Django Unk
+"Java, Flask, Node.js, CSS, Kubernetes",Java Unk Unk Unk Unk
+"Linux, CSS, Flutter, Azure",Linux Unk Unk Azure
+"Django, SQL, SQL, MongoDB",Django Unk Unk Unk
+"Git, HTML, ASP.NET",gitmek Html Unk
+"Azure, Java, Linux, HTML, HTML",Azure Java Linux Html Html
+"Git, Azure, Next.js, MongoDB, HTML, Azure",gitmek Azure Unk Unk Html Azure
+"Java, Kubernetes, JavaScript, Python, Azure",Java Unk Javascript Python Azure
+"Azure, Docker, MongoDB, Git, Flutter",Azure Unk Unk gitmek Unk
+"React, SQL, HTML, Docker",Unk Unk Html Unk
+"Flutter, Flask, Django",Unk Unk Django
+"Docker, Linux, Azure, Java, CSS, C#",Unk Linux Azure Java Unk
+"Django, Node.js, Flask, Python, Linux",Django Unk Unk Python Linux
+"Next.js, Docker, Git, HTML, Java",Unk Unk gitmek Html Java
+"C#, HTML, Linux, React, C#",Html Linux Unk
+"HTML, Node.js, Java",Html Unk Java
+"Docker, Git, Docker, Kubernetes, Docker",Unk gitmek Unk Unk Unk
+"React, CSS, Git, Flutter, MongoDB, Next.js",Unk Unk gitmek Unk Unk Unk
+"Java, Flask, Docker",Java Unk Unk
+"Node.js, Java, Python, Linux",Unk Java Python Linux
+"Docker, Node.js, Flutter",Unk Unk Unk
+"JavaScript, Node.js, Azure, Next.js",Javascript Unk Azure Unk
+"Azure, Flutter, Node.js",Azure Unk Unk
+"Azure, HTML, Flask, C#",Azure Html Unk
+"Node.js, C#, Azure, C#, Next.js",Unk Azure Unk
+"Django, Java, Node.js, React",Django Java Unk Unk
+"C#, JavaScript, Node.js",Javascript Unk
+"SQL, Next.js, React",Unk Unk Unk
+"Docker, HTML, Kubernetes, ASP.NET, MongoDB, Flutter",Unk Html Unk Unk Unk Unk
+"Flutter, ASP.NET, React, Node.js",Unk Unk Unk Unk
+"Next.js, C#, Azure",Unk Azure
+"ASP.NET, Next.js, Flutter, Next.js, Flutter, React",Unk Unk Unk Unk Unk Unk
+"Flask, MongoDB, Azure, Next.js, Next.js",Unk Unk Azure Unk Unk
+"React, Java, Django",Unk Java Django
+"JavaScript, Kubernetes, Flask",Javascript Unk Unk
+"ASP.NET, HTML, ASP.NET, CSS, Django",Unk Html Unk Unk Django
+"SQL, Kubernetes, JavaScript, Linux, Python, Azure",Unk Unk Javascript Linux Python Azure
+"Flask, ASP.NET, Java, Java, React",Unk Unk Java Java Unk
+"Kubernetes, MongoDB, CSS",Unk Unk Unk
+"HTML, React, Kubernetes, Azure, CSS, Azure",Html Unk Unk Azure Unk Azure
+"Flask, Kubernetes, Next.js, Docker, ASP.NET",Unk Unk Unk Unk Unk
+"React, Kubernetes, Node.js",Unk Unk Unk
+"Git, Django, Linux, Flutter",gitmek Django Linux Unk
+"Flutter, Linux, Django",Unk Linux Django
+"HTML, HTML, Git, Flutter, ASP.NET, C#",Html Html gitmek Unk Unk
+"React, Linux, JavaScript, C#, Python",Unk Linux Javascript Python
+"Azure, Next.js, Flutter, SQL, Linux",Azure Unk Unk Unk Linux
+"MongoDB, CSS, Flutter, C#",Unk Unk Unk
+"Flask, Python, Azure, Django, Flask",Unk Python Azure Django Unk
+"MongoDB, Node.js, Flutter",Unk Unk Unk
+"C#, Azure, Linux, C#, Linux, React",Azure Linux Linux Unk
+"Python, CSS, Python, MongoDB, CSS, Git",Python Unk Python Unk Unk gitmek
+"Django, Next.js, SQL",Django Unk Unk
+"Kubernetes, ASP.NET, Java",Unk Unk Java
+"HTML, Kubernetes, React, HTML",Html Unk Unk Html
+"Kubernetes, Flutter, Azure, Java, Java",Unk Unk Azure Java Java
+"HTML, CSS, Docker, Node.js, Next.js",Html Unk Unk Unk Unk
+"Next.js, Azure, Linux, Docker, Django",Unk Azure Linux Unk Django
+"HTML, Next.js, Azure, Flutter",Html Unk Azure Unk
+"ASP.NET, React, Python, Azure",Unk Unk Python Azure
+"Python, Azure, Flask, Docker",Python Azure Unk Unk
+"CSS, HTML, SQL, ASP.NET, Kubernetes, Flutter",Unk Html Unk Unk Unk Unk
+"React, SQL, Docker, Linux, ASP.NET, SQL",Unk Unk Unk Linux Unk Unk
+"Azure, Linux, Kubernetes, CSS",Azure Linux Unk Unk
+"Docker, Next.js, Node.js, Linux, Java, Kubernetes",Unk Unk Unk Linux Java Unk
+"React, Node.js, C#",Unk Unk
+"Flask, HTML, Python",Unk Html Python
+"CSS, Docker, Java, Kubernetes, MongoDB",Unk Unk Java Unk Unk
+"ASP.NET, Next.js, Linux, Docker, Flask, Kubernetes",Unk Unk Linux Unk Unk Unk
+"Kubernetes, CSS, Flask",Unk Unk Unk
+"Node.js, Git, Next.js, Python",Unk gitmek Unk Python
+"CSS, Node.js, Docker",Unk Unk Unk
+"SQL, ASP.NET, Node.js",Unk Unk Unk
+"MongoDB, ASP.NET, Python, Next.js, ASP.NET",Unk Unk Python Unk Unk
+"CSS, Linux, Flask",Unk Linux Unk
+"Python, Git, Linux, HTML",Python gitmek Linux Html
+"React, Kubernetes, ASP.NET, React, Java, Next.js",Unk Unk Unk Unk Java Unk
+"Kubernetes, Python, Next.js, MongoDB, Linux, Python",Unk Python Unk Unk Linux Python
+"Next.js, Flask, Docker",Unk Unk Unk
+"Java, Java, HTML, Kubernetes",Java Java Html Unk
+"Python, C#, Git",Python gitmek
+"Flutter, React, Kubernetes, Kubernetes",Unk Unk Unk Unk
+"Flask, Git, Python, Linux, React",Unk gitmek Python Linux Unk
+"Next.js, HTML, Flutter, Java, Kubernetes",Unk Html Unk Java Unk
+"Docker, Flutter, C#, HTML, Linux",Unk Unk Html Linux
+"Docker, SQL, Kubernetes, React",Unk Unk Unk Unk
+"Node.js, JavaScript, Git",Unk Javascript gitmek
+"Flask, Node.js, Git, Java, Git, Linux",Unk Unk gitmek Java gitmek Linux
+"Java, Linux, Linux",Java Linux Linux
+"Node.js, Kubernetes, JavaScript, Django, ASP.NET, Node.js",Unk Unk Javascript Django Unk Unk
+"Linux, SQL, HTML",Linux Unk Html
+"SQL, Next.js, Docker",Unk Unk Unk
+"Git, Flask, Git, Linux",gitmek Unk gitmek Linux
+"Azure, JavaScript, CSS, C#, Python, Next.js",Azure Javascript Unk Python Unk
+"Next.js, Next.js, Django",Unk Unk Django
+"React, Azure, C#, JavaScript, React, JavaScript",Unk Azure Javascript Unk Javascript
+"Flask, Java, JavaScript, Java, SQL, Flask",Unk Java Javascript Java Unk Unk
+"Kubernetes, React, React, Java",Unk Unk Unk Java
+"Python, Flask, Azure, Docker, MongoDB, Kubernetes",Python Unk Azure Unk Unk Unk
+"Java, JavaScript, CSS",Java Javascript Unk
+"React, React, Docker, Python, C#",Unk Unk Unk Python
+"Node.js, CSS, Kubernetes",Unk Unk Unk
+"Linux, Git, HTML",Linux gitmek Html
+"Next.js, MongoDB, Django",Unk Unk Django
+"Flutter, Kubernetes, HTML, MongoDB, Docker, Linux",Unk Unk Html Unk Unk Linux
+"CSS, Python, Node.js, JavaScript",Unk Python Unk Javascript
+"Docker, Docker, Docker",Unk Unk Unk
+"Java, HTML, Git, CSS, Linux",Java Html gitmek Unk Linux
+"CSS, Java, Azure, Node.js, MongoDB",Unk Java Azure Unk Unk
+"Next.js, Django, Docker, Next.js",Unk Django Unk Unk
+"Node.js, Azure, C#, Linux, MongoDB, Node.js",Unk Azure Linux Unk Unk
+"SQL, Flask, Java",Unk Unk Java
+"MongoDB, Java, Flask, Next.js, Kubernetes",Unk Java Unk Unk Unk
+"React, HTML, Azure",Unk Html Azure
+"React, C#, Flask, C#, Flask",Unk Unk Unk
+"Linux, C#, Flask",Linux Unk
+"Kubernetes, Kubernetes, HTML, HTML, React",Unk Unk Html Html Unk
+"HTML, Git, React, ASP.NET",Html gitmek Unk Unk
+"SQL, Java, Node.js, SQL, Next.js, HTML",Unk Java Unk Unk Unk Html
+"SQL, Kubernetes, Docker, CSS",Unk Unk Unk Unk
+"Git, Flask, CSS, Kubernetes, Kubernetes, Next.js",gitmek Unk Unk Unk Unk Unk
+"Azure, ASP.NET, Docker, JavaScript, Kubernetes, Git",Azure Unk Unk Javascript Unk gitmek
+"Next.js, Kubernetes, MongoDB, Git",Unk Unk Unk gitmek
+"C#, Kubernetes, Flask, Git",Unk Unk gitmek
+"SQL, Flask, Flutter, ASP.NET, Flutter, C#",Unk Unk Unk Unk Unk
+"React, Linux, Kubernetes, C#, JavaScript",Unk Linux Unk Javascript
+"Flask, HTML, Django",Unk Html Django
+"Django, Flask, MongoDB",Django Unk Unk
+"Flutter, Flask, C#",Unk Unk
+"Node.js, HTML, MongoDB",Unk Html Unk
+"Django, Docker, HTML, React, React",Django Unk Html Unk Unk
+"CSS, SQL, Linux, Flutter",Unk Unk Linux Unk
+"Django, Python, Flutter, CSS, Docker",Django Python Unk Unk Unk
+"React, ASP.NET, MongoDB, Git, Kubernetes, Flask",Unk Unk Unk gitmek Unk Unk
+"MongoDB, ASP.NET, Flask, Flutter",Unk Unk Unk Unk
+"SQL, CSS, React, Flask, ASP.NET",Unk Unk Unk Unk Unk
+"React, Docker, JavaScript",Unk Unk Javascript
+"Django, CSS, JavaScript, Flutter, SQL",Django Unk Javascript Unk Unk
+"Docker, React, HTML, Docker, Next.js, Django",Unk Unk Html Unk Unk Django
+"Docker, CSS, Docker",Unk Unk Unk
+"Python, SQL, Kubernetes, Flask, Next.js",Python Unk Unk Unk Unk
+"Python, React, MongoDB, Node.js",Python Unk Unk Unk
+"Docker, HTML, Node.js",Unk Html Unk
+"SQL, React, Kubernetes",Unk Unk Unk
+"Flask, Kubernetes, ASP.NET, Azure, Next.js",Unk Unk Unk Azure Unk
+"Git, Python, ASP.NET",gitmek Python Unk
+"Next.js, C#, Flask",Unk Unk
+"Kubernetes, Flutter, Flask, Django",Unk Unk Unk Django
+"ASP.NET, React, Node.js, JavaScript",Unk Unk Unk Javascript
+"React, Java, CSS, ASP.NET",Unk Java Unk Unk
+"CSS, ASP.NET, Docker",Unk Unk Unk
+"ASP.NET, Node.js, MongoDB, Azure, SQL, Flutter",Unk Unk Unk Azure Unk Unk
+"Linux, MongoDB, Azure, MongoDB",Linux Unk Azure Unk
+"Next.js, Linux, C#, Django, C#",Unk Linux Django
+"MongoDB, Azure, MongoDB, React, Flutter",Unk Azure Unk Unk Unk
+"CSS, MongoDB, Flask, C#",Unk Unk Unk
+"Azure, ASP.NET, Flutter, Node.js, React",Azure Unk Unk Unk Unk
+"Git, Kubernetes, React",gitmek Unk Unk
+"React, Flutter, JavaScript, Java",Unk Unk Javascript Java
+"Next.js, Git, Node.js, Azure, Java",Unk gitmek Unk Azure Java
+"ASP.NET, Django, CSS, CSS",Unk Django Unk Unk
+"Java, Flutter, React, Node.js, Django",Java Unk Unk Unk Django
+"C#, ASP.NET, Flask, Flutter, Django",Unk Unk Unk Django
+"Flutter, React, C#, Flutter, Git, C#",Unk Unk Unk gitmek
+"HTML, SQL, SQL",Html Unk Unk
+"Node.js, Flask, Django, Azure, Next.js",Unk Unk Django Azure Unk
+"Flutter, React, Flutter",Unk Unk Unk
+"C#, React, CSS, SQL, Node.js, React",Unk Unk Unk Unk Unk
+"SQL, Flutter, Django",Unk Unk Django
+"Java, Kubernetes, Next.js, JavaScript, SQL",Java Unk Unk Javascript Unk
+"Flutter, Azure, Docker, Flask",Unk Azure Unk Unk
+"React, Flask, Azure",Unk Unk Azure
+"SQL, Flask, Python, Node.js, CSS",Unk Unk Python Unk Unk
+"Flutter, Java, ASP.NET",Unk Java Unk
+"Node.js, Kubernetes, Flask",Unk Unk Unk
+"Python, SQL, Node.js, Linux, Node.js, Docker",Python Unk Unk Linux Unk Unk
+"MongoDB, Django, Python, Linux",Unk Django Python Linux
+"Django, JavaScript, SQL, Next.js",Django Javascript Unk Unk
+"Docker, Azure, Git, JavaScript, Java",Unk Azure gitmek Javascript Java
+"Java, Next.js, Azure, ASP.NET, C#",Java Unk Azure Unk
+"Flask, HTML, CSS, SQL, Django",Unk Html Unk Unk Django
+"Java, JavaScript, React, Flutter, SQL",Java Javascript Unk Unk Unk
+"Java, MongoDB, Linux",Java Unk Linux
+"React, Next.js, React, CSS, HTML",Unk Unk Unk Unk Html
+"Node.js, CSS, SQL",Unk Unk Unk
+"Azure, Flutter, JavaScript",Azure Unk Javascript
+"Azure, Node.js, React, Azure, Linux, Django",Azure Unk Unk Azure Linux Django
+"C#, Flask, ASP.NET, Docker",Unk Unk Unk
+"React, Python, Flutter, SQL",Unk Python Unk Unk
+"Django, Azure, Python, MongoDB",Django Azure Python Unk
+"Linux, Docker, ASP.NET, MongoDB, Flutter",Linux Unk Unk Unk Unk
+"HTML, ASP.NET, Linux, HTML, HTML",Html Unk Linux Html Html
+"Git, Java, Linux, Node.js, Azure",gitmek Java Linux Unk Azure
+"HTML, Django, Python",Html Django Python
+"Azure, Node.js, Kubernetes, Next.js",Azure Unk Unk Unk
+"Kubernetes, Flutter, Git, Node.js, Kubernetes, Java",Unk Unk gitmek Unk Unk Java
+"Flask, Kubernetes, Flask, Docker",Unk Unk Unk Unk
+"Django, Flutter, Docker",Django Unk Unk
+"Flutter, MongoDB, ASP.NET",Unk Unk Unk
+"MongoDB, Flutter, JavaScript, Git, CSS, Linux",Unk Unk Javascript gitmek Unk Linux
+"Git, Linux, Flask, React, Git, Docker",gitmek Linux Unk Unk gitmek Unk
+"C#, JavaScript, Flutter",Javascript Unk
+"Node.js, Kubernetes, Kubernetes, SQL",Unk Unk Unk Unk
+"MongoDB, CSS, CSS, ASP.NET, C#",Unk Unk Unk Unk
+"React, CSS, C#, Linux, Java",Unk Unk Linux Java
+"Java, MongoDB, Node.js",Java Unk Unk
+"Python, HTML, Kubernetes",Python Html Unk
+"HTML, Docker, Node.js",Html Unk Unk
+"Docker, Node.js, Next.js, Docker, CSS",Unk Unk Unk Unk Unk
+"Azure, MongoDB, Next.js, MongoDB, Flutter",Azure Unk Unk Unk Unk
+"Git, React, SQL, React, Kubernetes",gitmek Unk Unk Unk Unk
+"ASP.NET, Flask, Git, Flutter",Unk Unk gitmek Unk
+"Azure, Flutter, Azure, Next.js",Azure Unk Azure Unk
+"Next.js, CSS, ASP.NET, HTML, SQL",Unk Unk Unk Html Unk
+"ASP.NET, Linux, Azure",Unk Linux Azure
+"Java, C#, CSS",Java Unk
+"ASP.NET, Django, React, C#",Unk Django Unk
+"Java, Node.js, CSS, Docker",Java Unk Unk Unk
+"React, ASP.NET, C#, Django, Kubernetes",Unk Unk Django Unk
+"Docker, Azure, Docker, Flask, Git, Django",Unk Azure Unk Unk gitmek Django
+"Kubernetes, Git, HTML, Kubernetes",Unk gitmek Html Unk
+"C#, Git, Node.js",gitmek Unk
+"Node.js, Azure, MongoDB, JavaScript",Unk Azure Unk Javascript
+"Azure, C#, Kubernetes, CSS, React",Azure Unk Unk Unk
+"Next.js, Flask, Kubernetes, Python, Flask, ASP.NET",Unk Unk Unk Python Unk Unk
+"Flutter, Azure, Docker, Azure",Unk Azure Unk Azure
+"C#, Next.js, Flutter, Git, C#, Flask",Unk Unk gitmek Unk
+"React, Azure, JavaScript",Unk Azure Javascript
+"JavaScript, Python, C#, Java, HTML",Javascript Python Java Html
+"Django, Docker, Node.js, C#",Django Unk Unk
+"ASP.NET, Node.js, Next.js, Django",Unk Unk Unk Django
+"MongoDB, JavaScript, HTML, Kubernetes",Unk Javascript Html Unk
+"React, C#, CSS, Linux, SQL",Unk Unk Linux Unk
+"MongoDB, ASP.NET, CSS, Flutter, Java, JavaScript",Unk Unk Unk Unk Java Javascript
+"Java, JavaScript, React, Flutter, Python",Java Javascript Unk Unk Python
+"C#, Kubernetes, Next.js, Java, Flutter",Unk Unk Java Unk
+"Kubernetes, CSS, Java, CSS, Azure, Linux",Unk Unk Java Unk Azure Linux
+"MongoDB, Azure, Node.js",Unk Azure Unk
+"React, Kubernetes, JavaScript, MongoDB, JavaScript",Unk Unk Javascript Unk Javascript
+"Docker, Flutter, Git",Unk Unk gitmek
+"Docker, Flask, Azure, Node.js, Django",Unk Unk Azure Unk Django
+"C#, Git, Flask",gitmek Unk
+"React, Python, Azure, Flutter, Docker",Unk Python Azure Unk Unk
+"Node.js, Linux, ASP.NET, Node.js, JavaScript, Django",Unk Linux Unk Unk Javascript Django
+"SQL, HTML, CSS",Unk Html Unk
+"Django, Linux, MongoDB, C#, CSS, Flutter",Django Linux Unk Unk Unk
+"JavaScript, ASP.NET, Git, Python",Javascript Unk gitmek Python
+"Docker, Azure, React, Java, Node.js, CSS",Unk Azure Unk Java Unk Unk
+"Node.js, React, Linux, SQL",Unk Unk Linux Unk
+ŞOK Marketler - Elektronik ve Haberleşme mühendisi (2021-2025),şok market elektronik haberleşmek mühendis
+Şişecam - Sanayici (2022-2023),Şişecam sanayi
+Aslan Fırat Şti.,Aslan Fırat Şti
+- Teşrifatçı (2023-2025),teşrifat
+Peak Games - Mali hizmetler uzmanı (2020-2024),Peak Games malî hizmet Uzma
+Sakarya Tarhan Şti.,Sakarya Tarhan Şti
+- Makinist (2023-2024),makinist
+Çetin Manço Ltd. - Benzinci (2021-2025),çetin Manço Ltd benzin
+Demirel Şti.,Demirel Şti
+- Çitçi (2018-2024),çit
+Akgündüz Ltd. - Manifaturacı (2023-2024),Akgündüz Ltd manifatura
+Türk Telekom - İcra memuru (2022-2023),Türk Telekom icra memur
+Yılmaz Karadeniz Şti.,yılmaz Karadeniz Şti
+- Profesör (2019-2023),profesör
+Gül Yüksel Ltd. - Tellal (2019-2024),gülmek yükselmek Ltd tellâl
+Bilgin Şti.,bilgi Şti
+- Hattat (2020-2023),hattat
+Yıldırım Ltd. - Yazar (2018-2023),yıldırım Ltd yazar
+İnönü Ltd. - Kuyumcu (2022-2025),İnönü Ltd kuyumcu
+Turkcell - Başbakan (2021-2025),Turkcell başbakan
+Öcalan A.Ş.,Öcalan
+- Şekerci (2022-2023),şeker
+Aselsan - Gelir uzmanı (2021-2025),Aselsan gelmek Uzma
+Mansız Akçay Şti.,Mans Akçay Şti
+- Danışman (2023-2025),danışman
+Yüksel Şti.,yükselmek Şti
+- Sicil memuru (2022-2024),sicil memur
+Mansız A.Ş.,Mans
+- Ambalajcı (2020-2025),ambalaj
+Durmuş Zorlu A.Ş.,durmak zor
+- Kamyoncu (2018-2024),kamyon
+Petrol Ofisi - Opera sanatçısı (2021-2024),petrol ofis opera sanat
+Çamurcuoğlu Türk A.Ş.,Unk Türk
+- Dadı (2020-2025),dadı
+Akça Şama A.Ş.,akça Şam
+- Matkapçı (2022-2023),Matkap
+ŞOK Marketler - Müsteşar (2020-2023),şok market müsteşar
+Gül Ltd. - Jokey (2023-2023),gülmek Ltd jokey
+Seven Yıldırım Ltd. - Biyomedikal Mühendisi (2023-2025),sevmek yıldırım Ltd biyomedikal mühendis
+Fırat Ltd. - Palyaço (2023-2023),Fırat Ltd palyaço
+Petrol Ofisi - Desinatör (2022-2024),petrol ofis desinatör
+Çetin Arslan A.Ş.,çetin arslan
+- Temsilci (2019-2024),temsilci
+Türk A.Ş.,Türk
+- Fermantasyon işçisi (2020-2024),fermantasyon işçi
+Dumanlı Yılmaz Ltd. - Oduncu (2020-2025),duman yılmaz Ltd odun
+Sakarya Durmuş Şti.,Sakarya durmak Şti
+- Genetik mühendisi (2018-2023),genetik mühendis
+Bilgin A.Ş.,bilgi
+- Kuşbilimci (2020-2023),kuşbilimci
+Karadeniz A.Ş.,Karadeniz
+- Mürebbiye (2018-2025),mürebbi
+Arslan Yılmaz Şti.,arslan yılmaz Şti
+- Vali (2018-2023),vali
+Akça A.Ş.,akça
+- Tarım işçisi (2020-2023),tar işçi
+Yaman A.Ş.,yaman
+- Çevre mühendisi (2022-2023),çevre mühendis
+Yılmaz Ltd. - Sigortacı (2021-2023),yılmaz Ltd sigortacı
+Sezgin Yıldırım A.Ş.,sezgi yıldırım
+- Orgeneral (2018-2023),orgeneral
+Sezgin Yıldırım A.Ş.,sezgi yıldırım
+- Celep (2020-2024),celep
+Türk Telekom - Madenci (2019-2025),Türk Telekom maden
+Fırat Şti.,Fırat Şti
+- İnşaatçı (2023-2023),inşaat
+Selçuk Ecza - Camcı (2019-2025),Selçuk ecza cam
+Bilir Akgündüz A.Ş.,bilir Akgündüz
+- Laborant (2023-2025),laborant
+ŞOK Marketler - Sosyal hizmet uzmanı (2020-2024),şok market sosyal hizmet Uzma
+Akdeniz Akgündüz A.Ş.,Akdeniz Akgündüz
+- Çevik Kuvvet (2019-2025),çevik Kuvvet
+Sezgin Zengin Şti.,sezgi zengin Şti
+- Astsubay (2019-2023),astsubay
+Roketsan - Karpuzcu (2020-2023),Roketsan karpuz
+Eraslan Gül Şti.,Eraslan gülmek Şti
+- Yorumcu (2021-2023),yorum
+Güçlü Şti.,güçlü Şti
+- Kasiyer (2022-2025),kasiyer
+ŞOK Marketler - Modelist (2020-2025),şok market modelist
+Türk A.Ş.,Türk
+- Kadın berberi (2019-2025),kadın berber
+Türk Hava Yolları - Piyango satıcısı (2018-2025),Türk hava yol piyango satıcı
+Bilir Sezgin Ltd. - Uydu antenci (2022-2024),bilir sezgi Ltd uydu anten
+Toyota Otomotiv - Rehber (2020-2023),Toyota otomotiv Rehber
+Anadolu Efes - Göz doktoru (2020-2024),Anadol Efes göz doktor
+Çamurcuoğlu Şensoy A.Ş.,Unk Şensoy
+- Asker (2023-2025),asker
+Hayrioğlu Dumanlı A.Ş.,Unk duman
+- Oymacı (2023-2025),oymak
+Bilir Şener A.Ş.,bilir Şener
+- Aktris (2021-2024),aktris
+Arslan Akçay Şti.,arslan Akçay Şti
+- Diş hekimi (2019-2024),diş hekim
+Akgündüz Ltd. - Yeminli mali müşavir (2019-2024),Akgündüz Ltd yemin malî müşavir
+ŞOK Marketler - Dilenci (2021-2024),şok market dilenci
+Şama Çetin Şti.,Şam çetin Şti
+- Başkomiser (2019-2025),başkomiser
+Durmuş Akçay Şti.,durmak Akçay Şti
+- Dalgıç (2018-2024),Dalgıç
+Demir Şener Ltd. - Aşçı (2020-2024),demir Şener Ltd aşçı
+Tevetoğlu Eraslan Şti.,Tevetoğlu Eraslan Şti
+- Armatör (2023-2025),armatör
+Yorulmaz A.Ş.,yormak
+- Öğretim elemanı (2021-2025),öğreti eleman
+Türk Hançer Ltd. - Subay (2020-2023),Türk hançer Ltd subay
+İnönü Ergül Şti.,İnönü Ergül Şti
+- İllüzyonist (2019-2023),illüzyonist
+ŞOK Marketler - Hostes (2019-2023),şok market hostes
+Akgündüz Yorulmaz A.Ş.,Akgündüz yormak
+- Pansumancı (2018-2024),pansuman
+Akgündüz Korutürk Ltd. - Radyolog (2021-2025),Akgündüz Korutürk Ltd radyolog
+Seven Zengin Şti.,sevmek zengin Şti
+- Embriyolog (2023-2023),embriyolog
+Ford Otosan - İcra memuru (2019-2024),Ford Otosan icra memur
+Sezgin Şti.,sezgi Şti
+- Buldozer operatörü (2019-2025),buldozer operatör
+Tüpraş - Pilavcı (2018-2024),Tüpraş pilâv
+Sezer Arslan A.Ş.,sezmek arslan
+- Aşçıbaşı (2019-2025),aşçıbaşı
+Gül A.Ş.,gülmek
+- Stenograf (2021-2024),stenograf
+Yıldırım Ltd. - Müneccim (2020-2023),yıldırım Ltd müneccim
+Limak İnşaat - Tümamiral (2021-2024),Limak inşaat tümamiral
+İhsanoğlu Durdu Ltd. - Yayıncı (2020-2023),İhsanoğlu durmak Ltd yayın
+Bilgin A.Ş.,bilgi
+- Kaportacı (2021-2023),kaporta
+Vestel - Camcı (2020-2023),Vestel cam
+Oyak Renault - Koruma görevlisi (2022-2024),Oyak Renault kor görev
+Öcalan Gül A.Ş.,Öcalan gülmek
+- Çikolatacı (2022-2023),çikolata
+Oyak Renault - Meteoroloji uzmanı (2018-2024),Oyak Renault meteoroloji Uzma
+Petkim - Cost Control (2023-2023),Petkim Unk Control
+Karadeniz Şama Şti.,Karadeniz Şam Şti
+- Tasarımcı (2018-2024),tasarım
+Demir Çetin Ltd. - Saat tamircisi (2022-2025),demir çetin Ltd saat tamir
+Aslan Şti.,Aslan Şti
+- Gitarist (2018-2023),gitarist
+Toyota Otomotiv - Proktolog (2018-2025),Toyota otomotiv Unk
+Yıldırım Fırat Ltd. - Test mühendisi (2022-2025),yıldırım Fırat Ltd test mühendis
+Limak İnşaat - Papaz (2018-2025),Limak inşaat papaz
+Zorlu Ltd. - Redaktör (2018-2025),zor Ltd redaktör
+Limak İnşaat - Tarım işçisi (2023-2024),Limak inşaat tar işçi
+Mansız Bilgin Şti.,Mans bilgi Şti
+- Astronot (2019-2023),astronot
+Yaman Şensoy Ltd. - Piyango satıcısı (2023-2023),yaman Şensoy Ltd piyango satıcı
+BİM - Radyoloji teknisyeni/teknikeri (2018-2024),Unk radyoloji Unk
+Dumanlı Tarhan A.Ş.,duman Tarhan
+- Dokumacı (2020-2023),dokuma
+Demirel A.Ş.,Demirel
+- İpçi (2022-2025),ip
+Yüksel Şti.,yükselmek Şti
+- Cerrah (2020-2025),cerrah
+Demir A.Ş.,demir
+- Manastır baş rahibesi (2021-2024),manastır baş rahibe
+Şafak Seven Ltd. - Tesisatçı (2019-2023),Şafak sevmek Ltd tesisat
+Akdeniz Soylu A.Ş.,Akdeniz soylu
+- Hemşire (2019-2025),hemşire
+Çorlu Ltd. - Sosyolog (2022-2025),çorlu Ltd sosyolog
+Akar A.Ş.,akmak
+- Ayakkabı tamircisi (2020-2025),ayakkabı tamir
+Şişecam - Seyis (2019-2025),Şişecam seyis
+Şafak Ltd. - Sürveyan (2019-2025),Şafak Ltd sürveyan
+Durdu Hançer A.Ş.,durmak hançer
+- Host (2023-2024),Host
+Arçelik - Oyun hostesi (2018-2023),Arçelik oymak hostes
+Türk Hançer Ltd. - Forklift operatörü (2019-2024),Türk hançer Ltd forklift operatör
+Akçay Şti.,Akçay Şti
+- İnşaat mühendisi (2019-2025),inşaat mühendis
+Ford Otosan - Yargıç (2023-2023),Ford Otosan yargıç
+Gül Sezgin Ltd. - İllüzyonist (2019-2023),gülmek sezgi Ltd illüzyonist
+Güçlü Aslan Şti.,güçlü Aslan Şti
+- Subay (2023-2025),subay
+Zorlu Şti.,zor Şti
+- Jokey (2019-2023),jokey
+Petkim - Genetik mühendisi (2019-2023),Petkim genetik mühendis
+Durdu Seven Şti.,durmak sevmek Şti
+- Kahveci (2018-2023),kahve
+Yıldırım Durdu Şti.,yıldırım durmak Şti
+- Kumaşçı (2020-2024),kumaş
+Sezgin Yorulmaz Şti.,sezgi yormak Şti
+- Veznedar (2022-2024),veznedar
+Vestel - Haham (2021-2025),Vestel haham
+Akar Şti.,akmak Şti
+- Piskopos (2022-2025),piskopos
+Akçay Mansız A.Ş.,Akçay Mans
+- Astronot (2023-2023),astronot
+Opet - Köşe yazarı (2018-2023),Opet köşe yazar
+Eraslan Şti.,Eraslan Şti
+- Jeomorfolog (2023-2025),jeomorfolog
+Aselsan - Üretici (2018-2023),Aselsan üretmek
+Yılmaz Aksu Şti.,yılmaz aksu Şti
+- Koleksiyoncu (2018-2024),koleksiyon
+LC Waikiki - Hastabakıcı (2021-2025),Waikiki hastabakıcı
+Roketsan - Sahil koruma (2019-2025),Roketsan sahil kor
+Tüpraş - Veteriner sağlık teknisyeni (2022-2023),Tüpraş veteriner Sağlık teknisyen
+Roketsan - Manifaturacı (2022-2023),Roketsan manifatura
+A101 Yeni Mağzacılık - Şarküter (2021-2024),yeni Unk Unk
+Alemdar Çorlu Ltd. - Sansürcü (2018-2025),alemdar çorlu Ltd sansür
+Çamurcuoğlu Yılmaz Ltd. - Kahveci (2021-2025),Unk yılmaz Ltd kahve
+Petkim - Çiftlik işletici (2021-2024),Petkim Çiftlik işlemek
+Çamurcuoğlu A.Ş.,Unk
+- Geyşa (2023-2023),geyşa
+Çetin Şti.,çetin Şti
+- Tatlıcı (2020-2025),tatlı
+Akçay Ltd. - Hastabakıcı (2018-2023),Akçay Ltd hastabakıcı
+Bilge Ltd. - İktisatçı (2020-2023),bilge Ltd iktisat
+Bilir Sezgin A.Ş.,bilir sezgi
+- Jeolog (2018-2025),jeolog
+Arçelik - Guru (2021-2023),Arçelik guru
+Duran Manço Ltd. - Müşavir (2023-2024),durmak Manço Ltd müşavir
+Çamurcuoğlu Arslan A.Ş.,Unk arslan
+- Sigortacı (2020-2025),sigortacı
+Demirel Eraslan Şti.,Demirel Eraslan Şti
+- Piyango satıcısı (2020-2023),piyango satıcı
+Petkim - Borucu (2021-2025),Petkim boru
+Bilge İhsanoğlu A.Ş.,bilge İhsanoğlu
+- Araba satıcısı (2020-2024),araba satıcı
+Türk Hava Yolları - Eğitimci (2023-2025),Türk hava yol eğitim
+Duran Şti.,durmak Şti
+- Şapel papazı (2023-2023),Şapel papaz
+A101 Yeni Mağzacılık - Müzisyen (2021-2025),yeni Unk müzisyen
+Yıldırım Şti.,yıldırım Şti
+- Sekreter (2019-2023),sekreter
+Gül Şama Şti.,gülmek Şam Şti
+- Teğmen (2018-2023),teğmen
+Tevetoğlu Arsoy Ltd. - Karpuzcu (2023-2024),Tevetoğlu Arsoy Ltd karpuz
+Anadolu Efes - Kaplamacı (2020-2025),Anadol Efes kaplama
+Anadolu Efes - Sosyal hizmet uzmanı (2023-2024),Anadol Efes sosyal hizmet Uzma
+Zorlu Şti.,zor Şti
+- Kemancı (2018-2024),keman
+Türk Hava Yolları - Aktar (2019-2024),Türk hava yol aktarmak
+Opet - Korsan (2023-2025),Opet korsan
+Çetin Şti.,çetin Şti
+- Komiser (2023-2024),komiser
+Ülker Alemdar Şti.,Ülker alemdar Şti
+- Proktolog (2019-2024),Unk
+Korutürk Ltd. - Ambalajcı (2020-2023),Korutürk Ltd ambalaj
+Çetin Karadeniz Ltd. - Lokomotifçi (2018-2024),çetin Karadeniz Ltd lokomotif
+Şener Seven A.Ş.,Şener sevmek
+- Teknisyen (2019-2024),teknisyen
+Aslan Ertaş Ltd. - Araba yıkayıcısı (2021-2024),Aslan Ertaş Ltd araba yıkamak
+Akdeniz Çetin Ltd. - Armatör (2018-2023),Akdeniz çetin Ltd armatör
+Şama Gül Ltd. - Kaloriferci (2023-2023),Şam gülmek Ltd kalorifer
+Türk Arsoy A.Ş.,Türk Arsoy
+- Proktolog (2022-2023),Unk
+Manço Dumanlı Ltd. - Kahveci (2021-2024),Manço duman Ltd kahve
+Şişecam - Pandomimci (2020-2024),Şişecam pandomim
+Ertaş Sezgin Ltd. - Tekniker (2018-2024),Ertaş sezgi Ltd tekniker
+Kısakürek Şama A.Ş.,Kısakürek Şam
+- Eleştirmen (2022-2025),eleştirmen
+Çorlu Ltd. - Karoserci (2022-2025),çorlu Ltd karoser
+Ford Otosan - Motor tamircisi (2023-2024),Ford Otosan motor tamir
+İhsanoğlu Şti.,İhsanoğlu Şti
+- Uçuş teknisyeni (2020-2023),uçuşmak teknisyen
+Aselsan - Muhtar (2023-2024),Aselsan muhtar
+Aselsan - Teşrifatçı (2022-2024),Aselsan teşrifat
+Hançer Ergül A.Ş.,hançer Ergül
+- Astrofizikçi (2018-2025),astrofizik
+Arçelik - Veteriner sağlık teknisyeni (2020-2023),Arçelik veteriner Sağlık teknisyen
+Manço İnönü Ltd. - Maketçi (2021-2024),Manço İnönü Ltd maket
+Öcalan Fırat Ltd. - Montajcı (2023-2025),Öcalan Fırat Ltd montaj
+Manço A.Ş.,Manço
+- Peyzaj mimarı (2018-2023),Peyzaj mimar
+Sezer Akdeniz Ltd. - Ağ yöneticisi (2023-2024),sezmek Akdeniz Ltd yönetmek
+Öcalan Eraslan A.Ş.,Öcalan Eraslan
+- Koruma görevlisi (2023-2024),kor görev
+Durdu Ltd. - Sunucu (2021-2024),durmak Ltd sunmak
+Sezer A.Ş.,sezmek
+- Adli tabip (2019-2023),adli tabip
+Akdeniz Şti.,Akdeniz Şti
+- Laborant (2020-2024),laborant
+A101 Yeni Mağzacılık - Antropolog (2023-2024),yeni Unk antropolog
+LC Waikiki - Kamyoncu (2021-2025),Waikiki kamyon
+Yaman Erdoğan A.Ş.,yaman Erdoğan
+- Jimnastikçi (2022-2024),jimnastik
+Öcalan A.Ş.,Öcalan
+- Göz doktoru (2018-2024),göz doktor
+BİM - Lokomotifçi (2021-2023),Unk lokomotif
+Tevetoğlu Manço A.Ş.,Tevetoğlu Manço
+- Fermantasyon işçisi (2022-2023),fermantasyon işçi
+Seven Mansız A.Ş.,sevmek Mans
+- Silahçı (2020-2024),silâhçı
+Tevetoğlu Aslan A.Ş.,Tevetoğlu Aslan
+- Stenograf (2021-2025),stenograf
+Manço Sezer A.Ş.,Manço sezmek
+- Kaynakçı (2019-2024),Kaynak
+Erdoğan A.Ş.,Erdoğan
+- Eczacı (2023-2023),ecza
+Petkim - Psikolojik danışmanlık ve rehberlik (2019-2025),Petkim psikolojik Danışmanlık Rehber
+Ertaş Arslan Şti.,Ertaş arslan Şti
+- Bakırcı (2019-2025),bakır
+Sezer Ltd. - Sicil memuru (2022-2024),sezmek Ltd sicil memur
+Anadolu Efes - Jeomorfolog (2018-2024),Anadol Efes jeomorfolog
+Tofaş - Mübaşir (2019-2024),Tofaş mübaşir
+Roketsan - Masör (2023-2025),Roketsan masör
+İhsanoğlu Bilge Şti.,İhsanoğlu bilge Şti
+- Çikolatacı (2018-2023),çikolata
+Güçlü Şti.,güçlü Şti
+- Tellal (2020-2024),tellâl
+Durmuş Akar Şti.,durmak akmak Şti
+- Matematikçi (2019-2023),matematik
+Vestel - Sistem yöneticisi (2021-2024),Vestel sistem yönetmek
+Akçay Aslan A.Ş.,Akçay Aslan
+- Duvarcı (2023-2023),duvar
+Kısakürek Ltd. - Çantacı (2019-2025),Kısakürek Ltd çanta
+Akçay Akgündüz Şti.,Akçay Akgündüz Şti
+- Pideci (2022-2024),pide
+Havelsan - Şemsiyeci (2023-2025),Havelsan şemsiye
+Sakarya Sezgin Ltd. - Fizyoterapist (2021-2025),Sakarya sezgi Ltd fizyoterapist
+Arçelik - Cerrah (2023-2025),Arçelik cerrah
+Turkcell - Mumyalayıcı (2022-2024),Turkcell mumyalamak
+Şişecam - Pencereci (2019-2024),Şişecam pencere
+Eraslan Sezgin A.Ş.,Eraslan sezgi
+- Depocu (2019-2023),depo
+Gülen A.Ş.,gülmek
+- Piskopos (2023-2023),piskopos
+Aselsan - Tavukçu (2018-2025),Aselsan tavuk
+İhsanoğlu Akdeniz Şti.,İhsanoğlu Akdeniz Şti
+- Çevre mühendisi (2021-2024),çevre mühendis
+EnerjiSA - Değirmenci (2021-2024),Enerjisa değirmen
+Petrol Ofisi - Simyacı (2023-2024),petrol ofis simya
+ŞOK Marketler - İç mimar (2020-2025),şok market mimar
+Duran Çamurcuoğlu A.Ş.,durmak Unk
+- Paketleyici (2020-2024),paketlemek
+Korutürk Şti.,Korutürk Şti
+- Çocuk doktoru (2020-2025),çocuk doktor
+Migros - Rektör yardımcısı (2021-2025),Migros rektör yardımcı
+EnerjiSA - Teknoloji uzmani (2018-2024),Enerjisa teknoloji Unk
+EnerjiSA - Laboratuvar işçisi (2019-2025),Enerjisa laboratuvar işçi
+Peak Games - Lostracı (2021-2024),Peak Games lostra
+Gül Ltd. - Matbaacı (2020-2023),gülmek Ltd matbaa
+Öcalan Demir Şti.,Öcalan demir Şti
+- Arpist (2020-2024),Unk
+Kısakürek Şti.,Kısakürek Şti
+- Laborant (2020-2024),laborant
+EnerjiSA - Meydancı (2020-2024),Enerjisa meydan
+Aksu Akçay Ltd. - Özel şoför (2022-2023),aksu Akçay Ltd özel şoför
+Çorlu Mansız A.Ş.,çorlu Mans
+- Başhemşire (2023-2025),başhemşire
+Akgündüz Arslan Şti.,Akgündüz arslan Şti
+- Test pilotu (2021-2024),test pilot
+Petkim - Sigortacı (2018-2024),Petkim sigortacı
+Akgündüz Akdeniz A.Ş.,Akgündüz Akdeniz
+- Kayıkçı (2020-2024),kayık
+Masomo - Dondurmacı (2022-2025),Unk dondurma
+Şafak Şama A.Ş.,Şafak Şam
+- Gıda mühendisi (2018-2023),gıda mühendis
+Mansız Mansız Ltd. - Sulh hâkimi (2022-2023),Mans Mans Ltd sulh Unk
+Mansız Bilge A.Ş.,Mans bilge
+- Vitrinci (2020-2024),vitrin
+A101 Yeni Mağzacılık - Kapıcı (2022-2024),yeni Unk kapmak
+Kısakürek Ergül Ltd. - Sistem mühendisi (2018-2023),Kısakürek Ergül Ltd sistem mühendis
+Migros - Su tesisatçısı (2023-2024),Migros tesisat
+Demir Karadeniz Ltd. - Tornacı (2019-2023),demir Karadeniz Ltd torna
+Ertaş Sakarya Ltd. - Peçeteci (2019-2025),Ertaş Sakarya Ltd peçete
+Limak İnşaat - Barmen (2020-2025),Limak inşaat barmen
+Gülen A.Ş.,gülmek
+- Modelist (2020-2024),modelist
+Şener Arsoy Ltd. - Rot balansçı (2023-2023),Şener Arsoy Ltd rot balans
+Karadeniz İhsanoğlu Ltd. - Saatçi (2022-2023),Karadeniz İhsanoğlu Ltd saat
+Petkim - Desinatör (2023-2023),Petkim desinatör
+Arsoy Ltd. - Çikolatacı (2022-2023),Arsoy Ltd çikolata
+Durdu Yaman Ltd. - Sütanne (2018-2025),durmak yaman Ltd sütanne
+Roketsan - Ocakçı (2020-2025),Roketsan ocak
+Gülen Şti.,gülmek Şti
+- Adli tabip (2022-2025),adli tabip
+Zorlu Kısakürek A.Ş.,zor Kısakürek
+- Başrahip (2023-2024),başrahip
+Vestel - Psikolojik danışmanlık ve rehberlik (2023-2024),Vestel psikolojik Danışmanlık Rehber
+BİM - Elektrikçi (2020-2023),Unk elektrik
+ŞOK Marketler - Metin yazarı (2020-2023),şok market metîn yazar
+Peak Games - Profesör (2020-2025),Peak Games profesör
+BİM - Gümrük müşavir yardımcısı (2019-2025),Unk gümrük müşavir yardımcı
+Hançer Ltd. - Modacı (2018-2025),hançer Ltd moda
+Akça Ülker A.Ş.,akça Ülker
+- Şarap üreticisi (2020-2023),şarap üretmek
+Peak Games - Makastar (2022-2025),Peak Games makastar
+Hayrioğlu Ltd. - Korgeneral (2021-2023),Unk Ltd korgeneral
+Kısakürek A.Ş.,Kısakürek
+- Tekniker (2020-2023),tekniker
+Hayrioğlu Türk Ltd. - Su tesisatçısı (2019-2024),Unk Türk Ltd tesisat
+Turkcell - Okutman (2018-2023),Turkcell okutman
+Bilgin Şti.,bilgi Şti
+- Kahveci (2023-2023),kahve
+Şafak Şti.,Şafak Şti
+- Polis şefi (2020-2023),polis şef
+Yüksel Bilge Ltd. - Forklift operatörü (2020-2024),yükselmek bilge Ltd forklift operatör
+Durmuş Şti.,durmak Şti
+- Yönetici (2022-2025),yönetmek
+Çorlu Şti.,çorlu Şti
+- Hakem (2023-2023),Hakem
+Arslan Şener A.Ş.,arslan Şener
+- Devlet memuru (2021-2025),devlet memur
+Gül Soylu A.Ş.,gülmek soylu
+- Kaportacı (2020-2023),kaporta
+Aselsan - Seyis (2021-2024),Aselsan seyis
+Gülen Türk Ltd. - Gazeteci (2023-2023),gülmek Türk Ltd gazete
+Alemdar Sakarya Ltd. - Devlet memuru (2020-2023),alemdar Sakarya Ltd devlet memur
+Opet - Peçeteci (2021-2024),Opet peçete
+Karadeniz Şti.,Karadeniz Şti
+- Lokantacı (2018-2024),lokanta
+Ergül Sezer A.Ş.,Ergül sezmek
+- Kazıcı (2018-2024),kazmak
+Eraslan Ltd. - Çevre mühendisi (2020-2025),Eraslan Ltd çevre mühendis
+Tüpraş - Gökbilimci (2023-2024),Tüpraş gökbilimci
+Bilgin Dumanlı Şti.,bilgi duman Şti
+- Cerrah (2021-2025),cerrah
+Şensoy Durmuş Şti.,Şensoy durmak Şti
+- Belediye meclisi üyesi (2018-2023),beledi Meclis üye
+Bilgin Ltd. - Şarküter (2020-2023),bilgi Ltd Unk
+Alemdar Çamurcuoğlu Şti.,alemdar Unk Şti
+- Anahtarcı (2019-2024),anahtar
+Aksu Şti.,aksu Şti
+- Kırtasiyeci (2019-2023),kırtasiye
+Arçelik - Fahişe (2019-2024),Arçelik fahişe
+Petkim - İşaretçi (2023-2025),Petkim işaret
+Durdu A.Ş.,durmak
+- Mermerci (2020-2024),mermer
+Seven Türk Ltd. - Susuz araç yıkama (2019-2025),sevmek Türk Ltd susuz araç yıkmak
+Akgündüz A.Ş.,Akgündüz
+- Tesisatçı (2022-2025),tesisat
+A101 Yeni Mağzacılık - Yorumcu (2022-2024),yeni Unk yorum
+Seven A.Ş.,sevmek
+- Mikrobiyolog (2023-2023),mikrobiyolog
+LC Waikiki - Eleştirmen (2019-2024),Waikiki eleştirmen
+Akçay Tevetoğlu A.Ş.,Akçay Tevetoğlu
+- Rektör yardımcısı (2021-2024),rektör yardımcı
+Sezer A.Ş.,sezmek
+- Lostracı (2020-2025),lostra
+Akçay Şti.,Akçay Şti
+- Müteahhit (2020-2025),Müteahhit
+Akça A.Ş.,akça
+- Uzay mühendisi (2021-2023),uzay mühendis
+Durdu Şti.,durmak Şti
+- Silahçı (2021-2024),silâhçı
+Akar Şener A.Ş.,akmak Şener
+- Bakan (2020-2023),bakmak
+Yorulmaz Yaman Şti.,yormak yaman Şti
+- Laborant (2019-2023),laborant
+Yüksel Ertaş A.Ş.,yükselmek Ertaş
+- Arşivci (2022-2023),arşiv
+Yılmaz Soylu Şti.,yılmaz soylu Şti
+- Savcı (2021-2023),savcı
+Migros - Böcekbilimci (2022-2024),Migros böcekbilim
+Yaman Arslan Şti.,yaman arslan Şti
+- Eskici (2019-2025),eski
+Mansız Şti.,Mans Şti
+- Çevik Kuvvet (2021-2024),çevik Kuvvet
+Hançer Türk Ltd. - Celep (2021-2024),hançer Türk Ltd celep
+Limak İnşaat - Psikolog (2020-2023),Limak inşaat psikolog
+Ergül Akdeniz Şti.,Ergül Akdeniz Şti
+- Motorcu (2023-2024),motor
+Akgündüz Arslan A.Ş.,Akgündüz arslan
+- Sınırlı baş makinist (2022-2025),sınır baş makinist
+Roketsan - Kütüphaneci (2023-2023),Roketsan kütüphane
+A101 Yeni Mağzacılık - Mevsimlik işçi (2021-2025),yeni Unk Mevsim işçi
+Korutürk Ltd. - Yüzücü (2022-2024),Korutürk Ltd yüzmek
+Seven Durmuş Ltd. - Bozacı (2021-2024),sevmek durmak Ltd boza
+Peak Games - Göz doktoru (2021-2023),Peak Games göz doktor
+Çetin A.Ş.,çetin
+- Fabrika işçisi (2021-2024),fabrika işçi
+Akdeniz Şti.,Akdeniz Şti
+- Tercüman (2018-2024),tercüman
+Ertaş Seven Ltd. - Bütçe uzmanı (2019-2025),Ertaş sevmek Ltd bütçe Uzma
+Demirel Akdeniz A.Ş.,Demirel Akdeniz
+- Teğmen (2022-2023),teğmen
+Toyota Otomotiv - Bakan (2021-2025),Toyota otomotiv bakmak
+Arsoy Şti.,Arsoy Şti
+- Model (2021-2025),model
+Şensoy Ltd. - Video editörü (2020-2023),Şensoy Ltd video editör
+Bilir Güçlü Şti.,bilir güçlü Şti
+- Nalbur (2019-2025),nalbur
+Aslan A.Ş.,Aslan
+- Veri hazırlama ve kontrol işletmeni (2019-2025),veri hazırlamak kontrol işletme
+Ertaş Ltd. - Hattat (2023-2023),Ertaş Ltd hattat
+Mansız A.Ş.,Mans
+- Yayıncı (2022-2025),yayın
+Şişecam - Elektrikçi (2021-2025),Şişecam elektrik
+Ergül A.Ş.,Ergül
+- Hamurkâr (2023-2023),Unk
+Toyota Otomotiv - Uçuş teknisyeni (2018-2025),Toyota otomotiv uçuşmak teknisyen
+Şişecam - Editör (2020-2023),Şişecam editör
+Aslan Ergül A.Ş.,Aslan Ergül
+- Mobilyacı (2021-2023),mobilya
+Soylu Güçlü A.Ş.,soylu güçlü
+- Stenograf (2022-2024),stenograf
+Turkcell - Başrahip (2020-2024),Turkcell başrahip
+Manço Duran Ltd. - Hukukçu (2022-2024),Manço durmak Ltd hukuk
+Akça Hayrioğlu A.Ş.,akça Unk
+- Krupiye (2021-2023),krupiye
+Akçay Şti.,Akçay Şti
+- Tuzcu (2018-2023),tuz
+Anadolu Efes - Simitçi (2020-2023),Anadol Efes simitçi
+Dumanlı Ltd. - Aktris (2020-2025),duman Ltd aktris
+Anadolu Efes - Müzisyen (2018-2023),Anadol Efes müzisyen
+Türk Alemdar A.Ş.,Türk alemdar
+- Çırak (2020-2023),çırak
+Türk Hava Yolları - Topçu (2021-2025),Türk hava yol top
+Zorlu Şener A.Ş.,zor Şener
+- Saz şairi (2021-2024),saz şair
+Demirel Şti.,Demirel Şti
+- Mimar (2019-2023),mimar
+Mansız Şensoy A.Ş.,Mans Şensoy
+- Damıtıcı (2023-2025),damıtmak
+Hayrioğlu Hançer Ltd. - Terzi (2023-2025),Unk hançer Ltd terzi
+Fırat Durmuş Şti.,Fırat durmak Şti
+- Arıcı (2022-2023),arı
+Korutürk Fırat Ltd. - Uzman Çavuş (2021-2024),Korutürk Fırat Ltd uzman çavuş
+Zorlu Ertaş Şti.,zor Ertaş Şti
+- Turşucu (2022-2023),turşu
+Akgündüz A.Ş.,Akgündüz
+- Oymacı (2019-2024),oymak
+Anadolu Efes - Acentacı (2019-2024),Anadol Efes Unk
+Şensoy A.Ş.,Şensoy
+- Ahşap tekne yapımcısı (2019-2023),ahşap tekne yapım
+A101 Yeni Mağzacılık - Şimşirci (2019-2023),yeni Unk şimşir
+Yüksel Alemdar Şti.,yükselmek alemdar Şti
+- Sosyolog (2021-2024),sosyolog
+Arslan Şama Şti.,arslan Şam Şti
+- Sistem yöneticisi (2022-2023),sistem yönetmek
+Akça Şafak A.Ş.,akça Şafak
+- Kuşbilimci (2021-2024),kuşbilimci
+Bilgin Şti.,bilgi Şti
+- Anahtarcı (2023-2025),anahtar
+Sezer Ltd. - Yer teknisyeni (2022-2024),sezmek Ltd yemek teknisyen
+ŞOK Marketler - Binicilik (2022-2023),şok market binmek
+Hançer A.Ş.,hançer
+- Okul müdürü (2023-2024),okul müdür
+Hançer Türk Ltd. - Ayakkabı tamircisi (2023-2025),hançer Türk Ltd ayakkabı tamir
+Türk Hava Yolları - İstatistikçi (2019-2024),Türk hava yol istatistik
+Petkim - Kapıcı (2019-2024),Petkim kapmak
+Opet - Uzman Çavuş (2018-2023),Opet uzman çavuş
+Çamurcuoğlu Şti.,Unk Şti
+- Halıcı (2022-2023),halı
+Opet - Polis memuru (2019-2023),Opet polis memur
+Sakarya Dumanlı A.Ş.,Sakarya duman
+- Oduncu (2020-2025),odun
+Şener Bilgin Ltd. - Şapkacı (2019-2024),Şener bilgi Ltd şapka
+Akar Gülen Ltd. - Sunucu (2019-2025),akmak gülmek Ltd sunmak
+Peak Games - Böcekbilimci (2022-2023),Peak Games böcekbilim
+Durdu Eraslan Şti.,durmak Eraslan Şti
+- Opera sanatçısı (2021-2024),opera sanat
+Roketsan - Tabelacı (2022-2024),Roketsan tabelâ
+Tüpraş - Galerici (2023-2024),Tüpraş galeri
+Şişecam - Enstrüman imalatçısı (2020-2024),Şişecam enstrüman imalât
+BİM - Debbağ (2023-2024),Unk Debbağ
+Şişecam - Papaz (2019-2023),Şişecam papaz
+Zorlu Öcalan Şti.,zor Öcalan Şti
+- Polis memuru (2021-2024),polis memur
+Öcalan Dumanlı A.Ş.,Öcalan duman
+- Kitapçı (2018-2024),Kitap
+Durdu A.Ş.,durmak
+- Hostes (2023-2024),hostes
+Demirel Erdoğan Ltd. - Pansiyoncu (2022-2024),Demirel Erdoğan Ltd pansiyon
+Limak İnşaat - İşportacı (2019-2023),Limak inşaat işporta
+Vestel - Masör (2020-2023),Vestel masör
+Yüksel A.Ş.,yükselmek
+- Garson (2018-2025),garson
+Güçlü Akçay Ltd. - Balıkçı (2020-2025),güçlü Akçay Ltd Balık
+Şişecam - Lostracı (2022-2024),Şişecam lostra
+Güçlü Çetin Ltd. - Fermantasyon işçisi (2020-2024),güçlü çetin Ltd fermantasyon işçi
+Türk Hava Yolları - Ornitolog (2019-2023),Türk hava yol ornitolog
+Gül Arsoy Şti.,gülmek Arsoy Şti
+- Kumcu (2019-2024),kum
+Soylu Şensoy Ltd. - Hareket memuru (2022-2023),soylu Şensoy Ltd hareket memur
+Sakarya A.Ş.,Sakarya
+- Jeoloji mühendisi (2021-2023),jeoloji mühendis
+Turkcell - Tavukçu (2021-2025),Turkcell tavuk
+Akdeniz A.Ş.,Akdeniz
+- Kütüphaneci (2020-2024),kütüphane
+Arsoy Şafak Ltd. - Marangoz (2021-2024),Arsoy Şafak Ltd marangoz
+Masomo - Kameraman (2023-2024),Unk kameraman
+Sezgin Ltd. - Emniyet amiri (2023-2023),sezgi Ltd emniyet amir
+Arçelik - Tatlıcı (2023-2023),Arçelik tatlı
+EnerjiSA - Yol bekçisi (2020-2025),Enerjisa yolmak bekçi
+Sezer Yorulmaz A.Ş.,sezmek yormak
+- Kuaför (2019-2023),kuaför
+Durdu Zorlu Ltd. - Hayvan bakıcısı (2023-2024),durmak zor Ltd hayvan bakıcı
+Arslan Şensoy Şti.,arslan Şensoy Şti
+- Kemancı (2020-2025),keman
+Arsoy Fırat Şti.,Arsoy Fırat Şti
+- Tellal (2022-2025),tellâl
+Sezgin A.Ş.,sezgi
+- Sınırlı baş makinist (2023-2024),sınır baş makinist
+Mansız Ltd. - Sokak çalgıcısı (2018-2025),Mans Ltd Sokak çalgı
+Masomo - Ön muhasebe sorumlusu (2019-2023),Unk muhasebe sorumlu
+Selçuk Ecza - Sanayici (2022-2023),Selçuk ecza sanayi
+Yüksel Zorlu A.Ş.,yükselmek zor
+- Çıkıkçı (2020-2023),çıkık
+Akgündüz Eraslan A.Ş.,Akgündüz Eraslan
+- Çırak (2020-2025),çırak
+Limak İnşaat - Suflör (2023-2023),Limak inşaat suflör
+Kısakürek Durmuş Ltd. - Aşçıbaşı (2018-2024),Kısakürek durmak Ltd aşçıbaşı
+LC Waikiki - Yorgancı (2023-2024),Waikiki yorgan
+LC Waikiki - Oyun yazarı (2018-2025),Waikiki oymak yazar
+Çetin Yüksel Ltd. - Kumcu (2019-2023),çetin yükselmek Ltd kum
+Yüksel Şti.,yükselmek Şti
+- Fahişe (2022-2023),fahişe
+Duran Şensoy Ltd. - Geyşa (2018-2025),durmak Şensoy Ltd geyşa
+Ford Otosan - Turizmci (2020-2024),Ford Otosan turizm
+Masomo - Test mühendisi (2020-2024),Unk test mühendis
+Güçlü Zengin Şti.,güçlü zengin Şti
+- Perukçu (2022-2024),peruk
+Akdeniz Şti.,Akdeniz Şti
+- Milletvekili (2020-2023),milletvekili
+Tarhan A.Ş.,Tarhan
+- Dokumacı (2018-2023),dokuma
+Türk Telekom - Reklamcı (2020-2025),Türk Telekom reklâm
+Yüksel A.Ş.,yükselmek
+- Oto tamircisi (2023-2025),oto tamir
+Petkim - Kesimci (2018-2025),Petkim kesim
+Aslan Çorlu Ltd. - Kameraman (2023-2023),Aslan çorlu Ltd kameraman
+Anadolu Efes - Aile hekimi (2018-2025),Anadol Efes aile hekim
+Yıldırım Şensoy Şti.,yıldırım Şensoy Şti
+- Suflör (2023-2024),suflör
+Selçuk Ecza - İthalatçı (2022-2025),Selçuk ecza ithalat
+Peak Games - Orgcu (2022-2023),Peak Games org
+Türk Hava Yolları - Elektrikçi (2021-2024),Türk hava yol elektrik
+Türk Hava Yolları - Eleştirmen (2020-2023),Türk hava yol eleştirmen
+Çamurcuoğlu A.Ş.,Unk
+- Figüran (2019-2023),figüran
+Tofaş - Dedektif (2022-2025),Tofaş dedektif
+Korutürk Ergül Şti.,Korutürk Ergül Şti
+- Tatlıcı (2018-2024),tatlı
+Arçelik - Tasarımcı (2023-2023),Arçelik tasarım
+Havelsan - Diyetisyen (2018-2024),Havelsan diyetisyen
+Roketsan - Makinist (2023-2025),Roketsan makinist
+Çamurcuoğlu Çamurcuoğlu Ltd. - Taşlayıcı (2022-2024),Unk Unk Ltd taşlamak
+Bilir Ltd. - Hattat (2020-2024),bilir Ltd hattat
+Oyak Renault - Asker (2020-2024),Oyak Renault asker
+Kısakürek Şti.,Kısakürek Şti
+- Sokak satıcısı (2023-2025),Sokak satıcı
+Akçay Güçlü A.Ş.,Akçay güçlü
+- Jeolog (2021-2024),jeolog
+Karadeniz İhsanoğlu A.Ş.,Karadeniz İhsanoğlu
+- Tesgahtar (2019-2025),Unk
+Mansız Şafak A.Ş.,Mans Şafak
+- Etnolog (2021-2024),etnolog
+Toyota Otomotiv - Hava trafikçisi (2018-2025),Toyota otomotiv hava trafik
+İhsanoğlu Çorlu A.Ş.,İhsanoğlu çorlu
+- İnsan kaynakları uzmanı (2023-2023),insan Kaynak Uzma
+Akdeniz Akgündüz A.Ş.,Akdeniz Akgündüz
+- Astsubay (2019-2025),astsubay
+Opet - Keskin Nişancı (2023-2025),Opet keskin Nişan
+Yüksel Tevetoğlu A.Ş.,yükselmek Tevetoğlu
+- Odacı (2023-2023),oda
+Sezgin Ltd. - Nalbant (2020-2024),sezgi Ltd Nalbant
+Yüksel Karadeniz A.Ş.,yükselmek Karadeniz
+- Striptizci (2020-2025),striptizci
+Bilgin Akar Ltd. - Manifaturacı (2022-2024),bilgi akmak Ltd manifatura
+Manço Demirel Şti.,Manço Demirel Şti
+- Subay (2022-2023),subay
+Peak Games - İplikçi (2018-2024),Peak Games iplik
+Masomo - Manav (2023-2025),Unk manav
+Bilir A.Ş.,bilir
+- Albay (2022-2023),albay
+Demir Fırat Ltd. - Bakan (2019-2025),demir Fırat Ltd bakmak
+Çamurcuoğlu Şti.,Unk Şti
+- Yardımcı hizmetli (2019-2023),yardımcı hizmet
+Demir Akgündüz A.Ş.,demir Akgündüz
+- İktisatçı (2018-2023),iktisat
+Öcalan Duran Ltd. - Makinist (2022-2025),Öcalan durmak Ltd makinist
+Çetin Yorulmaz A.Ş.,çetin yormak
+- Makasçı (2018-2023),makas
+LC Waikiki - Kat görevlisi (2018-2023),Waikiki katmak görev
+Yüksel Ltd. - Figüran (2022-2025),yükselmek Ltd figüran
+Arçelik - Tatlıcı (2021-2023),Arçelik tatlı
+Mansız Hançer Ltd. - Tuğgeneral (2020-2024),Mans hançer Ltd tuğgeneral
+Demir Aslan A.Ş.,demir Aslan
+- Denetleyici (2023-2023),denetlemek
+Şener Sakarya Ltd. - Astronom (2023-2025),Şener Sakarya Ltd astronom
+Durdu Ltd. - Çorapçı (2018-2023),durmak Ltd çorap
+Peak Games - Kitapçı (2018-2024),Peak Games Kitap
+Akçay Ltd. - Ayakkabı tamircisi (2019-2023),Akçay Ltd ayakkabı tamir
+Limak İnşaat - Saatçi (2020-2025),Limak inşaat saat
+Dumanlı A.Ş.,duman
+- Vergi denetmeni (2022-2024),vergi denetmen
+Türk Hava Yolları - Sicil memuru (2019-2024),Türk hava yol sicil memur
+Kısakürek Türk A.Ş.,Kısakürek Türk
+- Milletvekili (2018-2023),milletvekili
+Sezer Bilge Ltd. - Sanat yönetmeni (2023-2024),sezmek bilge Ltd sanat yönetmen
+Akdeniz Ltd. - Koreograf (2022-2024),Akdeniz Ltd koreograf
+Sakarya Arslan A.Ş.,Sakarya arslan
+- Etimolog (2022-2024),etimolog
+Gül Hayrioğlu Şti.,gülmek Unk Şti
+- Ağ yöneticisi (2019-2023),yönetmek
+Bilge Ltd. - Çatıcı (2020-2023),bilge Ltd çatmak
+Peak Games - Greyder operatörü (2020-2025),Peak Games greyder operatör
+Güçlü Şti.,güçlü Şti
+- Kapı satıcısı (2023-2023),kap satıcı
+Zorlu Ltd. - Balıkçı (2021-2025),zor Ltd Balık
+BİM - Terzi (2021-2023),Unk terzi
+Opet - Gazete satıcısı (2018-2023),Opet gazete satıcı
+Seven Türk Ltd. - Asker (2020-2024),sevmek Türk Ltd asker
+Petrol Ofisi - Berber (2018-2024),petrol ofis berber
+Sakarya Şti.,Sakarya Şti
+- Sürveyan (2023-2024),sürveyan
+ŞOK Marketler - Devlet memuru (2018-2025),şok market devlet memur
+Çorlu Şti.,çorlu Şti
+"- Ayakçı (otogar, lokanta) (2021-2024)",ayak otogar lokanta
+Manço Yılmaz Ltd. - Damıtıcı (2022-2025),Manço yılmaz Ltd damıtmak
+Akdeniz A.Ş.,Akdeniz
+- Tarım işçisi (2023-2024),tar işçi
+Tarhan A.Ş.,Tarhan
+- Piyanist (2023-2025),piyanist
+Zorlu Ltd. - Çöpçü (2018-2025),zor Ltd çöpçü
+Türk Telekom - Fon yöneticisi (2021-2025),Türk Telekom fon yönetmek
+Yorulmaz Şti.,yormak Şti
+- Turizmci (2023-2023),turizm
+Tüpraş - Tuhafiyeci (2020-2023),Tüpraş tuhafiye
+Durmuş Şti.,durmak Şti
+- Koruma görevlisi (2022-2023),kor görev
+Tüpraş - Hırdavatçı (2023-2023),Tüpraş hırdavat
+Erdoğan Ltd. - Araba satıcısı (2021-2023),Erdoğan Ltd araba satıcı
+Korutürk Hançer A.Ş.,Korutürk hançer
+- Gardiyan (2018-2025),gardiyan
+Alemdar Şti.,alemdar Şti
+- Kimya mühendisi (2019-2023),kimya mühendis
