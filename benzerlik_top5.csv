@@ -1,0 +1,91 @@
+Model,Sıra,Index,Skor,Metin
+TF-IDF (Lemmatized),1,70,0.3830,şok market - hostes (
+TF-IDF (Lemmatized),2,51,0.3751,şok market - modelist (
+TF-IDF (Lemmatized),3,24,0.3641,şok market - müsteşar (
+TF-IDF (Lemmatized),4,358,0.3641,şok market - binmek (
+TF-IDF (Lemmatized),5,62,0.3641,şok market - dilenci (
+TF-IDF (Stemmed),1,70,0.4102,ŞOK Market - Hostes (2019-2023)
+TF-IDF (Stemmed),2,220,0.4084,ŞOK Market - İç mimar (2020-2025)
+TF-IDF (Stemmed),3,51,0.4010,ŞOK Market - Modelist (2020-2025)
+TF-IDF (Stemmed),4,24,0.3940,ŞOK Market - Müsteşar (2020-2023)
+TF-IDF (Stemmed),5,358,0.3917,ŞOK Market - Binicilik (2022-2023)
+Lemmatized CBOW Win2 Dim100,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized CBOW Win2 Dim100,2,485,0.9147,şok market - devlet memur (
+Lemmatized CBOW Win2 Dim100,3,62,0.9032,şok market - dilenci (
+Lemmatized CBOW Win2 Dim100,4,24,0.9015,şok market - müsteşar (
+Lemmatized CBOW Win2 Dim100,5,70,0.9000,şok market - hostes (
+Lemmatized CBOW Win2 Dim300,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized CBOW Win2 Dim300,2,485,0.8827,şok market - devlet memur (
+Lemmatized CBOW Win2 Dim300,3,220,0.8730,şok market - iç mimar (
+Lemmatized CBOW Win2 Dim300,4,358,0.8719,şok market - binmek (
+Lemmatized CBOW Win2 Dim300,5,24,0.8698,şok market - müsteşar (
+Lemmatized CBOW Win4 Dim100,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized CBOW Win4 Dim100,2,485,0.9383,şok market - devlet memur (
+Lemmatized CBOW Win4 Dim100,3,62,0.9289,şok market - dilenci (
+Lemmatized CBOW Win4 Dim100,4,24,0.9274,şok market - müsteşar (
+Lemmatized CBOW Win4 Dim100,5,51,0.9269,şok market - modelist (
+Lemmatized CBOW Win4 Dim300,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized CBOW Win4 Dim300,2,485,0.9173,şok market - devlet memur (
+Lemmatized CBOW Win4 Dim300,3,358,0.9080,şok market - binmek (
+Lemmatized CBOW Win4 Dim300,4,220,0.9080,şok market - iç mimar (
+Lemmatized CBOW Win4 Dim300,5,24,0.9065,şok market - müsteşar (
+Lemmatized Skipgram Win2 Dim100,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized Skipgram Win2 Dim100,2,485,0.9707,şok market - devlet memur (
+Lemmatized Skipgram Win2 Dim100,3,62,0.9693,şok market - dilenci (
+Lemmatized Skipgram Win2 Dim100,4,51,0.9689,şok market - modelist (
+Lemmatized Skipgram Win2 Dim100,5,70,0.9684,şok market - hostes (
+Lemmatized Skipgram Win2 Dim300,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized Skipgram Win2 Dim300,2,220,0.9607,şok market - iç mimar (
+Lemmatized Skipgram Win2 Dim300,3,485,0.9605,şok market - devlet memur (
+Lemmatized Skipgram Win2 Dim300,4,358,0.9603,şok market - binmek (
+Lemmatized Skipgram Win2 Dim300,5,51,0.9596,şok market - modelist (
+Lemmatized Skipgram Win4 Dim100,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized Skipgram Win4 Dim100,2,485,0.9891,şok market - devlet memur (
+Lemmatized Skipgram Win4 Dim100,3,51,0.9879,şok market - modelist (
+Lemmatized Skipgram Win4 Dim100,4,62,0.9874,şok market - dilenci (
+Lemmatized Skipgram Win4 Dim100,5,257,0.9873,şok market - metîn yazar (
+Lemmatized Skipgram Win4 Dim300,1,0,1.0000,şok market - elektronik ve haberleşmek mühendis (
+Lemmatized Skipgram Win4 Dim300,2,485,0.9868,şok market - devlet memur (
+Lemmatized Skipgram Win4 Dim300,3,51,0.9851,şok market - modelist (
+Lemmatized Skipgram Win4 Dim300,4,45,0.9850,şok market - sosyal hizmet Uzma (
+Lemmatized Skipgram Win4 Dim300,5,220,0.9849,şok market - iç mimar (
+Stemmed CBOW Win2 Dim100,1,498,0.5560,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed CBOW Win2 Dim100,2,415,0.5560,Masomo - Test mühendis (2020-2024)
+Stemmed CBOW Win2 Dim100,3,32,0.5560,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed CBOW Win2 Dim100,4,37,0.5560,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed CBOW Win2 Dim100,5,92,0.5560,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed CBOW Win2 Dim300,1,498,0.5638,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed CBOW Win2 Dim300,2,415,0.5638,Masomo - Test mühendis (2020-2024)
+Stemmed CBOW Win2 Dim300,3,32,0.5638,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed CBOW Win2 Dim300,4,37,0.5638,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed CBOW Win2 Dim300,5,92,0.5638,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed CBOW Win4 Dim100,1,498,0.5827,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed CBOW Win4 Dim100,2,415,0.5827,Masomo - Test mühendis (2020-2024)
+Stemmed CBOW Win4 Dim100,3,32,0.5827,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed CBOW Win4 Dim100,4,37,0.5827,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed CBOW Win4 Dim100,5,92,0.5827,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed CBOW Win4 Dim300,1,498,0.5920,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed CBOW Win4 Dim300,2,415,0.5920,Masomo - Test mühendis (2020-2024)
+Stemmed CBOW Win4 Dim300,3,32,0.5920,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed CBOW Win4 Dim300,4,37,0.5920,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed CBOW Win4 Dim300,5,92,0.5920,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed Skipgram Win2 Dim100,1,498,0.5865,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed Skipgram Win2 Dim100,2,415,0.5865,Masomo - Test mühendis (2020-2024)
+Stemmed Skipgram Win2 Dim100,3,32,0.5865,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed Skipgram Win2 Dim100,4,37,0.5865,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed Skipgram Win2 Dim100,5,92,0.5865,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed Skipgram Win2 Dim300,1,498,0.6204,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed Skipgram Win2 Dim300,2,415,0.6204,Masomo - Test mühendis (2020-2024)
+Stemmed Skipgram Win2 Dim300,3,32,0.6204,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed Skipgram Win2 Dim300,4,37,0.6204,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed Skipgram Win2 Dim300,5,92,0.6204,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed Skipgram Win4 Dim100,1,498,0.6753,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed Skipgram Win4 Dim100,2,415,0.6753,Masomo - Test mühendis (2020-2024)
+Stemmed Skipgram Win4 Dim100,3,32,0.6753,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed Skipgram Win4 Dim100,4,37,0.6753,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed Skipgram Win4 Dim100,5,92,0.6753,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
+Stemmed Skipgram Win4 Dim300,1,498,0.7045,Alemdar Şti. - Kimya mühendis (2019-2023)
+Stemmed Skipgram Win4 Dim300,2,415,0.7045,Masomo - Test mühendis (2020-2024)
+Stemmed Skipgram Win4 Dim300,3,32,0.7045,Sakarya Dur Şti. - Genetik mühendis (2018-2023)
+Stemmed Skipgram Win4 Dim300,4,37,0.7045,Yama A.Ş. - Çevre mühendis (2022-2023)
+Stemmed Skipgram Win4 Dim300,5,92,0.7045,Yıldır Fırat Ltd. - Test mühendis (2022-2025)
